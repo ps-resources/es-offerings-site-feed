@@ -2,12 +2,13 @@
 layout: default
 id: home
 ---
+{% assign sortedPosts = site.offerings | sort: 'parameterized_name' %}
 <div class="container-xl p-responsive pt-9">
   <h3 class="h5-mktg mb-3">Expert Services Offerings Site Feed</h3>
   <ul class="pl-4">
-    {% for post in site.offerings %}
+    {% for post in sortedPosts %}
     <li>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time> - <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>
