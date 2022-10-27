@@ -1,0 +1,15 @@
+// stylelint-disable primer/borders, plugin/no-unsupported-browser-features
+
+.testimonial-logo {
+  height: rem($spacer-7);
+}
+
+.testimonial-avatar {
+  width: rem($spacer-9);
+  height: rem($spacer-9);
+  border: 4px solid #fff;
+}
+
+.testimonial-image-blend {
+  mix-blend-mode: color-burn;
+}

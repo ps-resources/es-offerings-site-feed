@@ -1,0 +1,138 @@
+.build-in-fade {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+
+  &.build-in-animate {
+    opacity: 1;
+  }
+}
+
+.build-in-slideY {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: translateY(15px);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.build-in-slideX-left {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: translateX(-15px);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.build-in-slideX-right {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: translateX(15px);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.build-in-scale-up {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: translateY(50px) scale(0);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.build-in-scale-down {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: translateY(-50px) scale(0);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.build-in-scale-right {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: scale(0.9) translateX(-20px);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.build-in-scale-left {
+  opacity: 0;
+  transition: $siteDefaultTransition;
+  transform: scale(0.9) translateX(20px);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.build-in-scale-fade {
+  opacity: 0;
+  transition: opacity 0.7s $siteDefaultEase, transform 0.7s $siteDefaultEase;
+  transform: scale(0.96) translateY(24px);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.build-in-flip {
+  transition: 1.2s transform ease, 1.2s opacity ease;
+  transform: perspective(8000px) rotateY(-180deg);
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: perspective(8000px) translate3d(0, 0, 0);
+  }
+}
+
+.build-out-flip {
+  transition: 1.2s transform ease, 1.2s opacity ease;
+  transform: perspective(8000px) rotateY(0);
+
+  &.build-in-animate {
+    transform: perspective(8000px) rotateY(180deg);
+  }
+}
+
+.build-in-reset {
+  transition: $siteDefaultTransition;
+
+  &.build-in-animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.build-in-reduced {
+  transition-delay: 0s !important;
+  transition-duration: 0s !important;
+  animation-duration: 0s !important;
+  animation-delay: 0s !important;
+
+  * {
+    transition-delay: 0s !important;
+    transition-duration: 0s !important;
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+  }
+}

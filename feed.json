@@ -1,0 +1,21 @@
+---
+permalink: feed.json
+---
+{% assign sortedPosts = site.posts | sort: 'title' %}
+
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title | smartify | jsonify }},
+  "feed_url": "{{ site.url }}/feed.json",
+  "expired": false,
+  "items": [{% for post in sortedPosts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "lead": {{ post.description | jsonify }},
+      "content": {{ post.content | jsonify }},
+      "parameterized_name": {{ post.parameterized_name | jsonify }},
+      "date_published": "{{ post.date | date_to_xmlschema }}"
+    }
+    {% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}

@@ -1,0 +1,158 @@
+// stylelint-disable primer/colors, property-no-vendor-prefix, value-no-vendor-prefix
+.text-gray-mktg {
+  color: $light-text-mktg !important;
+}
+
+.text-gray-dark-mktg {
+  color: $dark-fill-mktg !important;
+}
+
+.text-gray-light-mktg {
+  color: $dark-text-mktg !important;
+}
+
+.text-blue-mktg {
+  color: mix(#2188ff, #0366d6, 42%) !important;
+}
+
+.text-blue-light {
+  color: $static-color-blue-300 !important;
+}
+
+.text-purple-mktg {
+  color: $primary-purple-mktg !important;
+  transition: color 0.4s;
+
+  @at-root {
+    a#{&}:hover {
+      color: $secondary-purple-mktg !important;
+    }
+  }
+}
+
+.text-green-mktg {
+  color: mix(#28a745, #34d058, 50%) !important;
+}
+
+.text-white-fade {
+  color: rgba($static-color-white, 0.7) !important;
+}
+
+.code-green {
+  color: #0dbc79;
+}
+
+.code-pink {
+  color: $static-color-pink-500;
+}
+
+.bg-gray-dark-mktg {
+  background-color: $dark-fill-mktg;
+}
+
+.bg-blue-dark {
+  background-color: $static-color-blue-800 !important;
+}
+
+.bg-radial-white {
+  background: radial-gradient(145.3% 145.3% at 65.91% 0%, #fff 0%, #f0f0f0 100%);
+}
+
+.bg-gray-800-mktg {
+  background-color: $gray-800-mktg;
+}
+
+.link-blue-light-mktg {
+  font-weight: $font-weight-semibold !important;
+  color: $blue-200-mktg !important;
+  transition: color 0.4s;
+
+  &:hover {
+    color: $blue-300-mktg !important;
+  }
+}
+
+.link-blue-mktg {
+  font-weight: $font-weight-semibold !important;
+  color: $blue-300-mktg !important;
+  transition: color 0.4s;
+
+  &:hover {
+    color: $blue-400-mktg !important;
+  }
+}
+
+// Dark Text Gradients
+
+.text-gradient-mint-blue-dark {
+  background: -webkit-linear-gradient(-70deg, #a2facf 0%, #64acff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.text-gradient-coral-yellow-dark {
+  background: -webkit-linear-gradient(-70deg, #ff7170 0%, #ffe57f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.text-gradient-turq-purple-dark {
+  background: -webkit-linear-gradient(-70deg, #3bf0e4 0%, #bca1f7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+// Light Text Gradients
+
+.text-gradient-blue-green {
+  background: -webkit-linear-gradient(-70deg, #2188ff 0%, #01a49e 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.text-gradient-red-orange {
+  background: -webkit-linear-gradient(-70deg, #ed4e50 0%, #f06f00 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.text-gradient-purple-coral {
+  background: -webkit-linear-gradient(-70deg, #9867f0 0%, #ed4e50 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.text-gradient-blue-purple {
+  background: -webkit-linear-gradient(-70deg, #2188ff 0%, #804eda 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.text-gradient-mint-blue {
+  background: linear-gradient(271.72deg, #a2facf 7.09%, #64acff 96.61%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-pink-blue {
+  background: -webkit-linear-gradient(-70deg, #db469f 0%, #2188ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

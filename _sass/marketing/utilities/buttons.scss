@@ -1,0 +1,152 @@
+// stylelint-disable primer/spacing
+// stylelint-disable primer/typography
+// stylelint-disable primer/borders
+// stylelint-disable primer/box-shadow
+// stylelint-disable primer/colors
+// stylelint-disable primer/no-override
+// stylelint-disable selector-max-type
+// stylelint-disable plugin/no-unsupported-browser-features
+
+// Looking for -fluid buttons? Use these classes instead (old to the left, new to the right):
+// .btn-mktg-fluid          → .btn-mktg
+// .btn-mktg-green-fluid    → .btn-primary-mktg
+// .btn-mktg-purple-fluid   → .btn-enterprise-mktg
+// .btn-mktg-purple-fluid   → .btn-enterprise-mktg
+// .btn-outline-mktg-fluid  → .btn-outline-mktg
+// .btn-white-outline-mktg  → .btn-transparent
+//
+// And to modify their sizes...
+// .btn-sm-mktg-fluid       → .btn-small-mktg
+// .btn-lg-mktg-fluid       → .btn-large-mktg
+
+// Invisible buttons - Buttons with no bg and ->
+.btn-invisible-mktg,
+.btn-large-invisible-mktg {
+  padding: rem(($spacer-3 - 1)) 0 rem(($spacer-3 + 1));
+  font-weight: $font-weight-bold;
+  line-height: $lh-condensed-mktg;
+  color: $primary-blue-mktg;
+  white-space: normal;
+  background: none !important;
+  transition: color 0.4s;
+
+  &::before,
+  &:hover {
+    color: $secondary-blue-mktg;
+    text-decoration: none;
+    background: none !important;
+  }
+
+  &:focus,
+  &.focus {
+    text-decoration: none !important;
+    box-shadow: none;
+
+    &.text-underline {
+      outline: solid 3px var(--color-border-info);
+      outline-offset: $spacer-2;
+    }
+
+    &::after {
+      position: absolute;
+      right: rem($spacer-4 - 4);
+      bottom: rem($spacer-2);
+      left: 0;
+      height: 2px;
+      content: "";
+      background-color: currentColor;
+      border-radius: 2px;
+    }
+  }
+
+  &.text-underline {
+    display: inline;
+    padding: rem(5px) 0;
+    line-height: $body-line-height;
+    text-decoration: none !important;
+    background-color: transparent !important;
+    background-image: linear-gradient(currentColor, currentColor) !important;
+    background-repeat: no-repeat !important;
+    background-position: 0 100% !important;
+    background-size: 100% 2px !important;
+    border-radius: 0;
+    box-shadow: none;
+
+    &::after {
+      display: none !important;
+    }
+  }
+
+  svg {
+    width: 1em;
+    height: 1em;
+  }
+}
+
+.btn-large-invisible-mktg {
+  font-size: $h5-size-mktg-fluid;
+
+  &:focus,
+  &.focus {
+    &::after {
+      right: rem($spacer-4);
+    }
+  }
+
+  &.text-underline {
+    margin-right: rem(-$spacer-4);
+
+    .Bump-link-symbol {
+      margin-right: rem(-$spacer-4);
+    }
+  }
+}
+
+// Temporary override while awaiting new primer release
+.btn-transparent.focus,
+.btn-transparent:focus {
+  outline: 0;
+  // stylelint-disable-next-line declaration-colon-newline-after
+  box-shadow: 0 0 0 2px var(--color-mktg-btn-dark-focus-border) inset,
+    0 0 0 4px var(--color-mktg-btn-dark-focus-border-inset) !important;
+}
+
+// Bump links - links with arrows or other icons
+
+.Bump-link {
+  position: relative;
+
+  &:hover {
+    .Bump-link-symbol {
+      transform: translateX(3px);
+    }
+
+    &.text-underline {
+      .Bump-link-symbol {
+        transform: translateX(3px);
+      }
+    }
+  }
+}
+
+.Bump-link-symbol {
+  display: inline-block;
+  transition: opacity $transition-time / 2, transform $transition-time / 2;
+  transform: translateX(0);
+
+  .text-underline > & {
+    margin-right: rem(-$spacer-3 - $spacer-1);
+  }
+}
+
+.Bump-link--hover .Bump-link-symbol {
+  margin-right: rem(-$spacer-3 - $spacer-1);
+  color: inherit;
+  opacity: 0;
+  transform: translateX(0);
+}
+
+.Bump-link--hover:hover .Bump-link-symbol {
+  opacity: 1;
+  transform: translateX(3px);
+}

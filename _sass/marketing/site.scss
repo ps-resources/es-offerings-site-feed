@@ -1,0 +1,31 @@
+// This file contains the marketing design system, and is included on *all* marketing pages
+// Styles that are unique for views and only used once should be included per view (not in this file)
+// Please refrain from including this file on any *logged in* page - these styles are intended
+// for marketing purposes only, and not for styling the product
+
+// Override path for Primer CSS to pull from our static files
+// These vars are used in @primer/css/marketing, and needs to be set before its inclusion
+$marketing-font-path: "../fonts/";
+$font-mktg: "Alliance No.1", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+// primer/marketing, includes utilities labeled as "Marketing" at https://primer.style/css/
+// All other primer utilities are available through the frameworks.css bundle, which includes the rest of primer/css
+@import "../variables/primer-css-support.scss";
+@import "@primer/css/marketing/index.scss";
+
+// Marketing support
+@import "mixins/strip-unit.scss";
+@import "mixins/rem-converter.scss";
+@import "mixins/buttons.scss";
+@import "support/variables.scss";
+
+// Marketing utilities (only add to these if a pattern should be widely used)
+@import "utilities/index.scss";
+@import "animations/index.scss";
+
+// Common components (include rare components only per view, not in this file)
+// Ideally, try to remove from this list rather than add - our goal is for these
+// components to be built with utilities only and self-contained in View Components
+@import "components/testimonial.scss";
+@import "components/misc.scss";

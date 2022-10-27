@@ -1,0 +1,31 @@
+/* padding primer/marketing polyfill */
+
+@include breakpoint(md) {
+  // stylelint-disable-next-line primer/no-override
+  .pt-md-0 {
+    margin-bottom: 0 !important;
+  }
+
+  // stylelint-disable-next-line primer/no-override
+  .py-md-7 {
+    padding-top: $spacer-7 !important;
+    padding-bottom: $spacer-7 !important;
+  }
+
+  .px-md-8 {
+    padding-right: $spacer-8 !important;
+    padding-left: $spacer-8 !important;
+  }
+
+  .px-md-10 {
+    padding-right: $spacer-10 !important;
+    padding-left: $spacer-10 !important;
+  }
+}
+
+.px-lg-8 {
+  @include breakpoint(lg) {
+    padding-right: $spacer-8 !important;
+    padding-left: $spacer-8 !important;
+  }
+}

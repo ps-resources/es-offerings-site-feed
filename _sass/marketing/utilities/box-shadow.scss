@@ -1,0 +1,38 @@
+.box-shadow-default-mktg {
+  box-shadow: $box-shadow-default-mktg !important;
+}
+
+.box-shadow-default-border-mktg {
+  box-shadow: $box-shadow-default-border-mktg !important;
+}
+
+.box-shadow-active-mktg {
+  box-shadow: $box-shadow-active-mktg !important;
+}
+
+.box-shadow-active-border-mktg {
+  box-shadow: $box-shadow-active-border-mktg !important;
+}
+
+.box-shadow-active-border-light-mktg {
+  box-shadow: $box-shadow-active-border-light-mktg !important;
+}
+
+.box-shadow-card-mktg {
+  box-shadow: $box-shadow-card-mktg !important;
+}
+
+.box-shadow-card-border-mktg {
+  box-shadow: $box-shadow-card-border-mktg !important;
+}
+
+.box-shadow-card-border-light-mktg {
+  box-shadow: $box-shadow-card-border-light-mktg !important;
+}
+
+.box-shadow-mktg-xl {
+  // stylelint-disable-next-line primer/box-shadow, declaration-colon-newline-after
+  box-shadow: 0 2.74416px 2.74416px rgba(0, 0, 0, 0.0274351), 0 5.48831px 5.48831px rgba(0, 0, 0, 0.0400741),
+    0 13.7208px 10.9766px rgba(0, 0, 0, 0.0499982), 0 20.5812px 20.5812px rgba(0, 0, 0, 0.0596004),
+    0 41.1623px 41.1623px rgba(0, 0, 0, 0.0709366), 0 96.0454px 89.1851px rgba(0, 0, 0, 0.09);
+}

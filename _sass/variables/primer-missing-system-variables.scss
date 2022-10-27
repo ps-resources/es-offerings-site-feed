@@ -1,0 +1,9 @@
+// CSS variables we plan to upstream into Primer CSS.
+
+:root {
+  --border-width: #{$border-width};
+  --border-style: #{$border-style};
+  --font-size-small: #{$font-size-small};
+  --font-weight-semibold: #{$font-weight-semibold};
+  --size-2: #{$size-2};
+}

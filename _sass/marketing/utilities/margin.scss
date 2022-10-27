@@ -1,0 +1,23 @@
+/* margin primer/marketing polyfill */
+.mr-lg-9 {
+  @include breakpoint(lg) {
+    margin-right: $spacer-9 !important;
+  }
+}
+
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.mr-n7 {
+  margin-right: -$spacer-7 !important;
+}
+
+.mr-7 {
+  margin-right: $spacer-7 !important;
+}
+
+.ml-n7 {
+  margin-left: -$spacer-7 !important;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "es-offerings-site-feed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub Expert Services Offerings Site Feed",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ps-resources/es-offerings-site-feed.git"
+  },
+  "author": "stamat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ps-resources/es-offerings-site-feed/issues"
+  },
+  "homepage": "https://github.com/ps-resources/es-offerings-site-feed#readme",
+  "dependencies": {
+    "@primer/css": "^17.3.0",
+    "@primer/octicons": "^11.1.0"
+  }
+}

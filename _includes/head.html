@@ -1,0 +1,17 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="content-language" content="en-US">
+  <meta name="robots" content="noindex">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title }}</title>
+
+  {% if jekyll.environment == "development" %}
+    <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon-dev.png">
+  {% else %}
+    <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
+  {% endif %}
+
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles.css">
+</head>

@@ -1,0 +1,119 @@
+// stylelint-disable primer/no-unused-vars
+
+// Typography
+$font-weight-medium: 450 !default;
+$font-weight-extrabold: 800 !default;
+
+// Temporary var while transitioning to primer v17
+$h000-size: 64px !default;
+
+$h00-size-mktg-fluid: rem(88px) !default;
+$h0-size-mktg-fluid: rem(72px) !default;
+$h1-size-mktg-fluid: rem(64px) !default;
+$h2-size-mktg-fluid: rem(56px) !default;
+$h3-size-mktg-fluid: rem($h1-size) !default;
+$h4-size-mktg-fluid: rem($h2-size) !default;
+$h5-size-mktg-fluid: rem($h3-size) !default;
+$h6-size-mktg-fluid: rem($h4-size) !default;
+
+// Mobile header sizes
+$h00-size-mobile-mktg-fluid: $h0-size-mktg-fluid;
+$h0-size-mobile-mktg-fluid: $h1-size-mktg-fluid;
+$h1-size-mobile-mktg-fluid: rem(48px) !default;
+$h2-size-mobile-mktg-fluid: $h3-size-mktg-fluid;
+$h3-size-mobile-mktg-fluid: $h4-size-mktg-fluid;
+$h4-size-mobile-mktg-fluid: $h5-size-mktg-fluid;
+
+// Body type
+$f1-size-mktg-fluid: rem($h1-size) !default;
+$f2-size-mktg-fluid: rem($h2-size) !default;
+$f3-size-mktg-fluid: rem($h3-size) !default;
+$f4-size-mktg-fluid: rem($h4-size) !default;
+$f5-size-mktg-fluid: rem($h5-size) !default;
+$f6-size-mktg-fluid: rem($h6-size) !default;
+
+// Mobile body
+$f1-size-mobile-mktg-fluid: rem($h2-size) !default;
+$f2-size-mobile-mktg-fluid: rem($h3-size) !default;
+$f3-size-mobile-mktg-fluid: rem($h4-size) !default;
+
+// Line heights
+$lh-condensed-ultra-mktg: 0.96 !default;
+$lh-condensed-mktg: 1.1 !default;
+
+$min-font: 14px;
+$max-font: 16px;
+
+// The list of spacer values
+$spacers-all: (
+  $spacer-0,
+  $spacer-1,
+  $spacer-2,
+  $spacer-3,
+  $spacer-4,
+  $spacer-5,
+  $spacer-6,
+  $spacer-7,
+  $spacer-8,
+  $spacer-9,
+  $spacer-10,
+  $spacer-11,
+  $spacer-12
+) !default;
+
+// Colors
+$primary-blue-mktg: #4969ed;
+$secondary-blue-mktg: #3355e0;
+$primary-green-mktg: #2ea44f;
+$secondary-green-mktg: #22863a;
+$primary-purple-mktg: #6f57ff;
+$secondary-purple-mktg: #614eda;
+
+$gray-900-mktg: #040d21;
+$gray-800-mktg: #0c162d;
+$gray-700-mktg: #19253c;
+$gray-600-mktg: #303d56;
+$gray-500-mktg: #42526d;
+$gray-400-mktg: #627597;
+$gray-450: mix($static-color-gray-500, $static-color-gray-400, 50%);
+$gray-300-mktg: #8193b2;
+$gray-200-mktg: #b5bfd2;
+$gray-100-mktg: #dadfe9;
+$gray-000-mktg: #e6eaf0;
+
+$blue-600-mktg: #000814;
+$blue-500-mktg: #001536;
+$blue-400-mktg: #043a8a;
+$blue-300-mktg: #035bd6;
+$blue-200-mktg: #2188ff;
+$blue-100-mktg: #b0d1f5;
+$blue-000-mktg: #f5f8fa;
+
+$dark-fill-mktg: $gray-900-mktg;
+$dark-text-mktg: $gray-300-mktg;
+$dark-border-mktg: $gray-500-mktg;
+$light-text-mktg: $gray-400-mktg;
+$light-border-mktg: $gray-100-mktg;
+
+// Shadows
+$box-shadow-default-mktg: 0 2.76726px 2.21381px rgba(0, 0, 0, 0.07), 0 6.6501px 5.32008px rgba(0, 0, 0, 0.04317),
+  0 12.5216px 10.0172px rgba(0, 0, 0, 0.0339075), 0 22.3363px 17.869px rgba(0, 0, 0, 0.0282784),
+  0 41.7776px 33.4221px rgba(0, 0, 0, 0.0235573), 0 100px 80px rgba(0, 0, 0, 0.0174624);
+$box-shadow-active-mktg: 0 2px 2px rgba(0, 0, 0, 0.0274351), 0 4px 4px rgba(0, 0, 0, 0.0400741),
+  0 10px 8px rgba(0, 0, 0, 0.0499982), 0 15px 15px rgba(0, 0, 0, 0.0596004), 0 30px 30px rgba(0, 0, 0, 0.0709366),
+  0 70px 65px rgba(0, 0, 0, 0.09);
+$box-shadow-card-mktg: 0 3px 2px rgba(0, 0, 0, 0.04), 0 7px 5px rgba(0, 0, 0, 0.02), 0 13px 10px rgba(0, 0, 0, 0.02),
+  0 22px 17px rgba(0, 0, 0, 0.02);
+$box-shadow-border-mktg: 0 0 0 1px rgba(#35485b, 0.1);
+$box-shadow-border-light-mktg: 0 0 0 1px rgba($static-color-white, 0.1);
+$box-shadow-large-mktg: 0 4px 14px rgba(0, 0, 0, 0.1);
+$box-shadow-card-border-mktg: $box-shadow-border-mktg, $box-shadow-card-mktg;
+$box-shadow-card-border-light-mktg: $box-shadow-border-light-mktg, $box-shadow-card-mktg;
+$box-shadow-default-border-mktg: $box-shadow-border-mktg, $box-shadow-default-mktg;
+$box-shadow-default-border-light-mktg: $box-shadow-border-light-mktg, $box-shadow-default-mktg;
+$box-shadow-active-border-mktg: $box-shadow-border-mktg, $box-shadow-active-mktg;
+$box-shadow-active-border-light-mktg: $box-shadow-border-light-mktg, $box-shadow-active-mktg;
+
+// Animation
+$siteDefaultEase: cubic-bezier(0.16, 1, 0.3, 1);
+$siteDefaultTransition: opacity 0.6s $siteDefaultEase, transform 0.6s $siteDefaultEase;

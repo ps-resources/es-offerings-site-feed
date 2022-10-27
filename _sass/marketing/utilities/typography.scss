@@ -1,0 +1,99 @@
+// stylelint-disable primer/typography, primer/spacing, primer/no-override, value-no-vendor-prefix, property-no-vendor-prefix
+
+// Type scale variables found in ../support/variables.scss
+
+// Type
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: normal;
+  font-weight: $font-weight-normal;
+  src: url("#{$marketing-font-path}alliance-no-2-regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: italic;
+  font-weight: $font-weight-normal;
+  src: url("#{$marketing-font-path}alliance-no-2-italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "alliance no.1";
+  font-style: normal;
+  font-weight: $font-weight-medium;
+  src: url("#{$marketing-font-path}alliance-no-2-medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "alliance no.1";
+  font-style: normal;
+  font-weight: $font-weight-semibold;
+  src: url("#{$marketing-font-path}alliance-no-2-semibold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: normal;
+  font-weight: $font-weight-bold;
+  src: url("#{$marketing-font-path}alliance-no-2-bold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: normal;
+  font-weight: $font-weight-extrabold;
+  src: url("#{$marketing-font-path}alliance-no-2-extrabold.woff") format("woff");
+  font-display: swap;
+}
+
+.font-mktg {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: $font-mktg;
+  word-break: keep-all; // prevents Chinese/Japanese/Korean words from being broken
+}
+
+.text-medium {
+  font-weight: $font-weight-medium !important;
+}
+
+.lh-condensed-mktg {
+  line-height: $lh-condensed-mktg !important;
+}
+
+// Letter spacing
+.text-spaced {
+  letter-spacing: 0.075em !important;
+}
+
+// Text line numbers
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.font-0 {
+  font-size: 0;
+}
+
+// Don’t allow users to select purely decorative elements
+.unselectable {
+  user-select: none;
+}
+
+.text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pre-line {
+  white-space: pre-line;
+}
