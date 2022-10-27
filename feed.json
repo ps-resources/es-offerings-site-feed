@@ -1,7 +1,7 @@
 ---
 permalink: feed.json
 ---
-{% assign sortedPosts = site.posts | sort: 'title' %}
+{% assign sortedPosts = site.offerings | sort: 'title' %}
 
 {
   "version": "https://jsonfeed.org/version/1.1",

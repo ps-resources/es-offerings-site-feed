@@ -47,3 +47,15 @@ exclude:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
+
+collections:
+  offerings:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "offerings"
+    values:
+      layout: "default"
