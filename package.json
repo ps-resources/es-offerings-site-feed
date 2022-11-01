@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ps-resources/es-offerings-site-feed#readme",
   "dependencies": {
-    "@primer/css": "^17.3.0",
-    "@primer/octicons": "^11.1.0"
+    "@primer/css": "^20.5.1",
+    "@primer/octicons": "^17.8.0"
   }
 }
