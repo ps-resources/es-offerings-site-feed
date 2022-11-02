@@ -5,7 +5,6 @@ description: Equip your team with the knowledge they need to configure and manag
 parameterized_name: implementation-github-enterprise-cloud
 ---
 
-
 ## Overview
 
 GitHub Enterprise Cloud is the center of software development for your organization. In this highly tailored session, GitHub's implementation experts will equip your team with the knowledge they need to configure and manage your GitHub Enterprise Cloud account.

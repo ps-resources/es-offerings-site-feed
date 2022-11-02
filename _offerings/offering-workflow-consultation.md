@@ -5,7 +5,6 @@ description: Equip your team with the knowledge they need to evaluate, implement
 parameterized_name: workflow-consultation
 ---
 
-
 ## Overview
 
 Today's developers are being asked to innovate faster than ever before. But, legacy workflows have become bloated by business and technology needs, regulatory requirements, and a host of other factors. Developers need to meet those requirements while promoting collaborative contributions.

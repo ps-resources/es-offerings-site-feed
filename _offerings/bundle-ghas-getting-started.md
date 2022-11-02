@@ -5,7 +5,7 @@ description: Supports you in "Getting Started" with GitHub Advanced Security (GH
 parameterized_name: bundle-ghas-getting-started
 ---
 
-# Overview
+## Overview
 
 This bundle supports you in "Getting Started" with GitHub Advanced Security (GHAS). It helps accelerate adoption in the critical first few weeks of deployment by providing training, advice and best practices for key stakeholders.
 

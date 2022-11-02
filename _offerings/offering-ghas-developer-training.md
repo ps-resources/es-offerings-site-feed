@@ -5,8 +5,6 @@ description: Allows you to have a "developer-first" approach to Application Secu
 parameterized_name: ghas-developer-training
 ---
 
-# Public
-
 ## Overview
 
 GitHub Advanced Security allows you to have a "developer-first" approach to Application Security, recognizing that developers have a critical role to play in securing your applications. This training will enable developers in your organization to both understand and effectively use the features of Advanced Security.

@@ -5,7 +5,6 @@ description: GitHub’s extensive API allows you to extend the platform to accom
 parameterized_name: api-training
 ---
 
-
 ## Overview
 
 APIs allow you to access content programmatically that you would normally access via a user interface. GitHub's extensive API allows you to extend the platform to accommodate most modern workflows and easily get the data you need.

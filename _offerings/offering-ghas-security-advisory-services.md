@@ -5,8 +5,6 @@ description: Identify your organization’s top priorities for improving your Se
 parameterized_name: ghas-security-advisory-services
 ---
 
-# Public
-
 ## Overview
 
 GitHub’s Security Advisory Services pairs you up with an expert from GitHub’s team to identify your organization’s top priorities for improving your Secure Software Development Lifecycle with GitHub Advanced Security. We will first work together to describe your current state of SSDLC/AppSec and developer workflow,  and define short-/mid-/long- term goals that you would like to achieve.
