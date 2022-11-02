@@ -5,7 +5,6 @@ description: Ensure your Version Control System (VCS) data is migrated to your G
 parameterized_name: migrations
 ---
 
-
 ## Overview
 
 Ensure your Version Control System (VCS) data is migrated to your GitHub Enterprise platform account accurately and efficiently. GitHub Expert Services delivers guidance and best practice expertise with guidance and best practice expertise from a GitHub Expert Services Delivery Engineer.

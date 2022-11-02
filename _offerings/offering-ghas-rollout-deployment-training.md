@@ -5,8 +5,6 @@ description: Provides support during the planning phases by providing best pract
 parameterized_name: ghas-rollout-deployment-training
 ---
 
-# Public
-
 ## Overview
 
 A successful GitHub Advanced Security rollout at scale requires careful planning and involves both technical and organizational change management. This training provides support during the planning phases by providing best practices, recommended rollout strategies and identifying common pitfalls and issues.

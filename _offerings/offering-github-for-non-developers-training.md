@@ -5,7 +5,6 @@ description: Opening GitHub to a broad audience in your organization, gives your
 parameterized_name: github-for-non-developers-training
 ---
 
-
 ## Overview
 
 It's no secret that it takes diverse skillsets and roles to make successful teams. By opening GitHub to a broad audience in your organization, you give your developers access to the expertise and diverse ways of thinking that represent your entire user population. This two day, hands on training targets those who don't develop software for a living to help them speak the language of GitHub and understand how they can leverage the platform to improve their own work.

@@ -5,8 +5,6 @@ description: Supports those who are responsible for reviewing, monitoring and dr
 parameterized_name: ghas-security-team-training
 ---
 
-# Public
-
 ## Overview
 
 This training session supports those who are responsible for reviewing, monitoring and driving remediation of security results across an enterprise. It explores how access can be granted security results, how enablement can be tracked, how results can be reviewed across entire enterprises and how the webhooks and APIs can be used to create custom workflows, integrations and reporting.

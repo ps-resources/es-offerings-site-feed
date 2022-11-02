@@ -5,8 +5,6 @@ description: Allows you to have a “developer-first” approach to Application 
 parameterized_name: ghas-security-results-review
 ---
 
-# Public
-
 ## Overview
 
 GitHub Advanced Security allows you to have a “developer-first” approach to Application Security, recognizing that developers have a critical role to play in securing your applications.

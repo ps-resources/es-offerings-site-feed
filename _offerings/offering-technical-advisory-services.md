@@ -5,7 +5,6 @@ description: Identify your organization's top priorities for improving software 
 parameterized_name: technical-advisory-services
 ---
 
-
 ## Overview
 
 GitHub's Technical Advisory Services pairs you up with an expert from GitHub's team to identify your organization's top priorities for improving software delivery and enabling a digital transformation. With these priorities in mind you and this advisor will build out a roadmap to accomplish these priorities, check in weekly to track progress, and have asynchronous communication channels available to work together to accomplish your goals.

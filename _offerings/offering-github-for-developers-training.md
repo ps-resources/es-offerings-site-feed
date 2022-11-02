@@ -5,7 +5,6 @@ description: Give your developers confidence with Git and GitHub with hands-on, 
 parameterized_name: github-for-developers-training
 ---
 
-
 ## Overview
 
 Give your developers confidence with Git and GitHub with hands-on, practical training from GitHub Professional Services. With GitHub for Developers, your team will spend two days working with a GitHub Expert to gain a solid understanding of Git, how to apply GitHub Flow in their existing projects, and how to handle common situations that occur when working in Distributed Version Control Systems. Most importantly, your team will learn how to collaborate more effectively to write quality code.
