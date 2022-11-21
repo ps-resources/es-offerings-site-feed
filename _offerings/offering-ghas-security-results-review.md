@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub Advanced Security Results Review
+title: GitHub Advanced Security - Results Review
 description: Allows you to have a “developer-first” approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
 parameterized_name: ghas-security-results-review
 ---
