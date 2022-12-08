@@ -84,4 +84,4 @@ After completing this training, learnings will be able to:
 
 Learners for this training will need to complete the following checklist prior to class:
 
-- <https://services.github.com/checklists/>
+- [Getting Ready for Class](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
