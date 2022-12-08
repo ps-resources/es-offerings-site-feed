@@ -22,7 +22,7 @@ Advanced [300]
 
 ## Key features and benefits
 
-- Understand best practices for rolling out GitHub Advanced Security that h
+- Understand best practices for rolling out GitHub Advanced Security.
 - Learn about the technical features that help support a phased or gradual rollout of Advanced Security across your organization.
 - Explore the techniques used to achieve high compliance and high remediation rates for identified vulnerabilities, including documentation and proactive enablement via PRs.
 - Demonstration of how to enable GitHub Advanced Security on GitHub Enterprise Server.
