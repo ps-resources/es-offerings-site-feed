@@ -35,7 +35,7 @@ In this engagement, a GitHub Professional Services Engineer will guide you throu
 - Setup the Tooling in Customers Environment
 - GitHub migration tooling will be available POST engagement
 - Completion of dry-run migrations to 1 GHEC Organisation including assistance in the creation of Mapping File
-  - Up to 5 repos with the size of 1 gigabyte or less
+  - Up to 5 repos with the size of 10 gigabytes or less
 - Outline migration process and steps that customers would follow post-GitHub engagement
 - Eight (8) hours of Post-Engagement support on Tooling and Migration Questions via EMU Migrations GitHub Repo. Support provided for 30 days post engagement only. Issues will be addressed on a first come first serve basis.
 - The tooling utilised during the migration is specifically for the GHEC to GEHC+EMU migration and is not supported outside of this engagement.
@@ -54,4 +54,4 @@ After this engagement, your team will be able to:
 - An SSH client
 - Ensure every employee has a GitHub Enterprise Cloud EMU account
 - A mapping of legacy GitHub Enterprise Cloud accounts to GitHub Enterprise Cloud EMU account
-- Maximum repository size limit not greater than 2GB
+- Maximum repository size limit not greater than 10GB
