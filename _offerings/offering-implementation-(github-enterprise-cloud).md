@@ -52,4 +52,4 @@ After this engagement, your team will be able to:
 
 - Ensure every employee has a GitHub.com account
 - Ensure billing is setup for the correct number of seats
-- Obtain configuration information for [SAML services](https://help.github.com/articles/about-authentication-with-saml-single-sign-on/)
+- Obtain configuration information for [SAML services](https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/about-authentication-with-saml-single-sign-on)

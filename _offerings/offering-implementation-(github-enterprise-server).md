@@ -57,8 +57,8 @@ After this engagement, your team will be able to:
 
 ## Prerequisites
 
-- Provisioned hosts for primary, replica, and backup-utils for [GitHub Enterprise Server](https://help.github.com/enterprise/admin/guides/installation/)
-- Ensure the [required ports](https://help.github.com/enterprise/admin/guides/installation/network-ports/) are opened
-- Obtain configuration information for [authentication services](https://help.github.com/enterprise/admin/guides/user-management/authenticating-users-for-your-github-enterprise-server-instance/) (LDAP/SAML/etc.)
-- A valid [SSL](https://help.github.com/enterprise/admin/guides/installation/configuring-a-hostname/) certificate for the desired hosting domain (`github.company.com`)
-- Email server settings for your [SMTP server](https://help.github.com/enterprise/admin/guides/user-management/configuring-email-for-notifications/)
+- Provisioned hosts for primary, replica, and backup-utils for [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server/admin/installation/setting-up-a-github-enterprise-server-instance)
+- Ensure the [required ports](https://docs.github.com/en/enterprise-server/admin/configuration/configuring-network-settings/network-ports) are opened
+- Obtain configuration information for [authentication services](https://docs.github.com/en/enterprise-server/admin/identity-and-access-management/managing-iam-for-your-enterprise/about-authentication-for-your-enterprise) (LDAP/SAML/etc.)
+- A valid [SSL/TLS](https://docs.github.com/en/enterprise-server/admin/configuration/configuring-network-settings/configuring-tls) certificate for the desired hosting domain (`github.company.com`)
+- Email server settings for your [SMTP server](https://docs.github.com/en/enterprise-server/admin/configuration/configuring-your-enterprise/configuring-email-for-notifications#configuring-smtp-for-your-enterprise)
