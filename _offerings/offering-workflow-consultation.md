@@ -9,7 +9,7 @@ parameterized_name: workflow-consultation
 
 Today's developers are being asked to innovate faster than ever before. But, legacy workflows have become bloated by business and technology needs, regulatory requirements, and a host of other factors. Developers need to meet those requirements while promoting collaborative contributions.
 
-In this tailored consultation, a GitHub Professional Services expert will equip your team with the knowledge they need to evaluate, implement, document, and design a workflow solution optimized for your branching and release management strategy.
+In this tailored consultation, a GitHub Expert Services Engineer will equip your team with the knowledge they need to evaluate, implement, document, and design a workflow solution optimized for your branching and release management strategy.
 
 ## Target Audience
 
