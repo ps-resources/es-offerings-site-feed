@@ -20,7 +20,7 @@ This bundle supports you in "Getting Started" with GitHub Advanced Security (GHA
 - Learn and apply best practices for deploying GitHub Advanced Security in your organization.
 - Work with a GHAS expert to develop a comprehensive rollout and deployment plan.
 - Accelerate adoption of Advanced Security within your organization.
-- Avoid common pitfalls and provlesm
+- Avoid common pitfalls and problems.
 
 ## Engagement schedule
 
