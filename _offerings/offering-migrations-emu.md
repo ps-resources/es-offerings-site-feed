@@ -7,9 +7,9 @@ parameterized_name: migrations-emu
 
 ## Overview
 
-Ensure your GitHub Enterprise Cloud data is migrated to your GitHub Enterprise Cloud plus Enterprise Managed Users (EMU) platform account accurately and efficiently, with guidance and best practice expertise from a GitHub Professional Services Engineer.
+Ensure your GitHub Enterprise Cloud data is migrated to your GitHub Enterprise Cloud plus Enterprise Managed Users (EMU) platform account accurately and efficiently, with guidance and best practice expertise from a GitHub Expert Services Engineer.
 
-GitHub Professional Services delivers guidance and best practice expertise from a GitHub Professional Services Engineer
+GitHub Expert Services delivers guidance and best practice expertise from a GitHub Expert Services Engineer
 
 ## Target Audience
 
@@ -30,7 +30,7 @@ To be delivered entirely remotely as contiguous days. Customer is expected to pr
 
 ## Syllabus
 
-In this engagement, a GitHub Professional Services Engineer will guide you through the process of migrating your GitHub Enterprise Cloud sources to the GitHub Enterprise Cloud + EMU target. This includes:
+In this engagement, a GitHub Expert Services Engineer will guide you through the process of migrating your GitHub Enterprise Cloud sources to the GitHub Enterprise Cloud + EMU target. This includes:
 
 - Setup the Tooling in Customers Environment
 - GitHub migration tooling will be available POST engagement
