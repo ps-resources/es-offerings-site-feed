@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot for Business Fundamentals Training
-description: This is a Level 100 Fundamental training on GitHub Copilot for Business, for customers who have procured Copilot For Business licenses and want an introductory level course for their users to start using the tool.
+description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
 parameterized_name: copilot-for-business-fundamentals-training
 ---
 
