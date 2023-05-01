@@ -36,7 +36,7 @@ This engagement will consist of one session of 2 hours face-to-face time. Maximu
 - Introduction
 - Enabling GitHub Advanced Security on GitHub Enterprise (if applicable)
 - Planning a rollout
-  - How to avoid forseeable problesm
+  - How to avoid forseeable problems
   - Get clean vs. keep clean
   - Code Scanning:
     - CI/CD integration, leveraging automation and CodeQL query selection
