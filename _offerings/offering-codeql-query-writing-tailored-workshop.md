@@ -37,25 +37,23 @@ organization and technical challenges.
 
 ### Key Features and Benefits
 
- * A guided interactive training with a CodeQL expert to gain a deeper understanding of CodeQL.
- * Focused on a query writing topic of your choice.
- * Learn reusable patterns for query development for similar problems.
- * Receive example CodeQL databases, queries and learning material for continuing your learning after the session.
+- A guided interactive training with a CodeQL expert to gain a deeper understanding of CodeQL.
+- Focused on a query writing topic of your choice.
+- Learn reusable patterns for query development for similar problems.
+- Receive example CodeQL databases, queries and learning material for continuing your learning after the session.
 
 ### Syllabus
 
-This engagement will consist of the following stages:
-
- 1. A kick-off and discovery call to identify and refine the topic of the workshop. Please bring any supporting material with you (samples, references, relevant codebases etc.).
- 2. Creation of the Workshop by the CodeQL Analysis Engineer.
- 3. Delivery of the workshop in a single 2 hour block of time.
+ 1. A kick-off and discovery call to identify and refine the topic of the workshop. Please bring any supporting material with you - e.g. samples, references or relevant codebases.
+ 2. Development of the workshop based on the agreed topic and scope. This will typically require 1-2 weeks.
+ 3. Delivery of the workshop in a single 2 hour interactive remote session. All materials will be shared with you after the session.
 
 ### Learning/Business Outcomes
 
-* Enhanced understanding of CodeQL topics covered by the tailored training workshop.
-* Participants will be able to apply the patterns and approaches covered in the session to similar problems.
- * One or more queries identifying the example vulnerabilities or patterns to help accelerate your own query development for similar patterns.
+- Enhanced understanding of CodeQL topics covered by the tailored training workshop.
+- Participants will be able to apply the patterns and approaches covered in the session to similar problems.
+- One or more queries identifying the example vulnerabilities or patterns to help accelerate your own query development for similar patterns.
   
 ### Prerequisites
 
- * An identified CodeQL query writing topic. Workshops are typically structured around an example of a security vulnerability or code pattern you wish to find using CodeQL.
+- An identified CodeQL query writing topic. Workshops are typically structured around an example of a security vulnerability or code pattern you wish to find using CodeQL.

@@ -37,10 +37,10 @@ intermediate, and advanced courses in the following areas:
 
 ### Key Features and Benefits
 
- * A guided interactive training with a CodeQL expert to gain a deeper understanding of CodeQL.
- * Gain proficiency in the topics covered.
- * Learn reusable patterns for query development for similar problems.
- * Receive example CodeQL databases, queries and learning material for continuing your learning after the session.
+- A guided interactive training with a CodeQL expert to gain a deeper understanding of CodeQL.
+- Gain proficiency in the topics covered.
+- Learn reusable patterns for query development for similar problems.
+- Receive example CodeQL databases, queries and learning material for continuing your learning after the session.
 
 ### Syllabus
 
@@ -48,10 +48,10 @@ Each course will be delivered as a 2 hour interactive remote session. An engagem
 
 ### Learning/Business Outcomes
 
- * Enhanced understanding of CodeQL topics covered by the selected training modules.
- * Participants will be able to apply the patterns and approaches covered in the session to similar problems.
+- Enhanced understanding of CodeQL topics covered by the selected training modules.
+- Participants will be able to apply the patterns and approaches covered in the session to similar problems.
   
 ### Prerequisites
 
- * A CodeQL Analysis Engineer has discussed your training goals and has ensured that the courses are available for the topics you want to learn about.
- * A CodeQL Analysis Engineer has made a recommendation for a learning path.
+- A CodeQL Analysis Engineer has discussed your training goals and has ensured that the courses are available for the topics you want to learn about.
+- A CodeQL Analysis Engineer has made a recommendation for a learning path.

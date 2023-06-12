@@ -34,19 +34,16 @@ N/A
 
 ### Syllabus
 
-This offering will include:
-
-1. A pre-sales scoping session to define each customization to be implemented and determine an estimated time-to-implement for each customization based on its assigned difficulty. To do the estimate we require that the following be supplied:
-  - the security vulnerability/code pattern/false positive result that they want to find/omit with CodeQL
-  - the list of sources/sinks/sanitizers to be modelled
-  - the test setup (code examples) to validate that the customization improves analysis as expected
+1. A pre-sales scoping session to define each customization to be implemented and determine an estimated time-to-implement for each customization based on its assigned difficulty. To do the estimate we require one or more of the following be supplied:
+   - A security vulnerability/code pattern/false positive result that they want to find/omit with CodeQL
+   - A list of sources/sinks/sanitizers to be modelled
+   - A test setup (code examples) to validate that the customization improves analysis as expected
 2. A post-sales kick-off session to clarify scope and remediate any missing dependencies, such as access to proprietary code
-3. The main asynchronous development cycle
-  - Write CodeQL sources/sinks/sanitizers
-  - Delivery of a customization as a custom bundle and provide deployment instructions
-  - Min one for simple, max two for complex - iterations of review + refinement:  
-    - Review feedback on customization impact (reduced false positives/negatives) via issues and a project board
-    - Refine sources/sinks/sanitizers if impact is not as expected
+3. Development of the customizations, using an iterative process:
+   - Write CodeQL sources/sinks/sanitizers
+   - Deliver the customizations with deployment instructions
+   - Review feedback on customization impact (reduced false positives/negatives) via issues and a project board
+   - Refine sources/sinks/sanitizers if impact is not as expected
 4. A final review and Q&A session
 
 ### Learning outcomes/business outcomes

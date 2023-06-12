@@ -25,14 +25,12 @@ After an initial scoping and feasibility assessment meeting, one or more CodeQL 
 
 ### Syllabus
 
-This engagement will consist of the following stages:
-
 1. A pre-sales scoping and feasibility evaluation meeting to define each rule to be implemented as a query and determine an estimated time-to-implement for each rule based on its assigned difficulty.
 2. A post-sales kick-off call to clarify any remaining scope or architectural questions as well as  to remediate any missing dependencies, such as access to proprietary code or query test cases.
 3. Internal project management and engineering tasks.
-4. The primary development cycle
+4. Development of the queries, using an iterative process:
    - CodeQL query development
-   - Incremental delivery of queries as CodeQL query packs with deployment guidance
+   - Incremental delivery of queries as CodeQL query packs or similar with deployment guidance
    - Collaborative review of query feedback and issue reports
    - Remediation of any false-positives, false-negatives, or other issues reported
    - Optionally, based on the individual services agreement, open-sourcing of the queries
