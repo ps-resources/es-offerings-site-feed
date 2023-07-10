@@ -9,7 +9,7 @@ parameterized_name: copilot-for-business-fundamentals-training
 
 GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to instantly suggest individual lines and whole functions.
 
-In this highly tailored session, GitHub's experts will equip your team with the knowledge of GitHub Copilot's Core features, business benefits, governance & controls, future roadmap, and frequently asked questions.  
+In this course, GitHub's experts will equip your team with the knowledge of GitHub Copilot's Core features, business benefits, governance & controls, future roadmap, and frequently asked questions.  
 
 ### Offering level
 
