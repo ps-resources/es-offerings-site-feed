@@ -48,61 +48,7 @@ Each innersource project has
 
 ## Delivery Methods
 
-The main workshop can be delivered remote or on site.
-
-### Discovey/Kick off Call
-
-- Same for both Remote and On Site
-- Providers: 1
-- Days: 1
-- Hours per day: 1
-- Total face-to-face time: 1
-- Method: Zoom, Teams, or other video conference software
-- What we would like to learn from the customer
-  - What are your goals
-  - How much innersource have you adopted already
-  - Discuss who should attend the workshop
-
-💻   **`R E M O T E`**
-
-- Providers: 1
-- Days: 2 (contiguous days recommended)
-- Hours per day: 3 (inclusive of 10-15 minute break each day)
-- Total face-to-face time: 6 hours (including breaks)
-- Method: Zoom, Teams, or other video conference software
-- Billable utilization:
-  - Async: 2 hours per provider
-  - Sync: 6 hours per provider
-  - Monthly follow ups: 3 hours per provider
-  - Total time: 11 hours per provider
-  - Project management: 16 hours total
-
-> **Note:** Project management to include things like discovery, kick off, scheduling, emails, etc.
-> **Note:** Delivery days and times can be modified as needed.
-
-🏛️  **`O N   S I T E`**
-
-- Providers: 1
-- Days: 2 (contiguous days required)
-- Hours per day: 3 (inclusive of 10-15 minute break each day)
-- Total face-to-face time: 6 hours (including breaks)
-- Method: reserved conference room or similar with all participants physically together
-- Billable utilization:
-  - Async: 4 hours per provider
-  - Sync: 6 hours per provider
-  - Monthly check ins: 6 hours per provider - These are performed remotely
-  - Total time: 16 hours per provider
-  - Project management: 16 hours total
-
-> **Note:** Project management to include things like discovery, kick off, scheduling workshop and check ins, emails, etc.
-
-### Check ins
-
-- Providers: 1
-- Method: _remote only_ via Zoom, Teams, or other video conference software
-- Billable utilization per check in: 1 hour
-- Frequency: monthly, for six months
-- Billable utilization for all check ins: 6 hours
+Workshop delivery method is remote.
 
 ## Syllabus
 
