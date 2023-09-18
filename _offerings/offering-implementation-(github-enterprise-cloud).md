@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Implementation (GitHub Enterprise Cloud)
+delivery:
+  method: "`6` hours maximum sync time"
+  unit: Class
 description: Equip your team with the knowledge they need to configure and manage your GitHub Enterprise Cloud account.
 parameterized_name: implementation-github-enterprise-cloud
 ---
