@@ -1,7 +1,10 @@
 ---
 layout: page
 title: CodeQL Query Development
-description: Commision GitHub to develop CodeQL queries based on your unique business needs.
+delivery:
+  method: "`40` hours of enablement and workshops."
+  unit: Workshop
+description: Commission GitHub to develop CodeQL queries based on your unique business needs.
 parameterized_name: codeql-query-development
 ---
 
