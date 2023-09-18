@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Migrations to GitHub Enterprise (Standard)
+delivery:
+  method: "`40` hours of enablement and workshops."
+  unit: Workshop
 description: Ensure your Version Control System (VCS) data is migrated to your GitHub Enterprise platform account accurately and efficiently.
 parameterized_name: migrations
 ---

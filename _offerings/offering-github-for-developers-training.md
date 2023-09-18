@@ -1,6 +1,9 @@
 ---
 layout: page
 title: GitHub for Developers Training
+delivery:
+  method: "`3` hours per day over 2 days."
+  unit: Class
 description: Give your developers confidence with Git and GitHub with hands-on, practical training from GitHub Expert Services.
 parameterized_name: github-for-developers-training
 ---
