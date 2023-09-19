@@ -6,4 +6,5 @@ gem 'jekyll-octicons', '17.8.0'
 
 group :test do
   gem "rake"
+  gem "json-schema", "~> 2.4.1"
 end
