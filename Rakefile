@@ -55,8 +55,8 @@ task "test" do
     end
 
     exit 0
-  rescue StandardError => e
-    puts e.inspect
+  rescue Errno::ENOENT => e
+    puts "_site/feed.json was not found"
 
     exit 1
   rescue JSON::Schema::ValidationError
