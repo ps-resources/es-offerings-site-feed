@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Advanced Security - Rollout and Deployment Training
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: Provides support during the planning phases by providing best practices, recommended rollout strategies and identifying common pitfalls and issues.
 parameterized_name: ghas-rollout-deployment-training
 ---

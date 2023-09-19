@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Implementation (GitHub Enterprise Server)
-delivery:
-  method: "`6` hours maximum sync time"
-  unit: Class
 description: Equip your team with the knowledge they need to configure and manage your GitHub Enterprise Server account.
 parameterized_name: implementation-github-enterprise-server
 ---

@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub for Non-Developers
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: Opening GitHub to a broad audience in your organization, gives your developers access to the expertise and diverse ways of thinking that represent your entire user population.
 parameterized_name: github-for-non-developers-training
 ---

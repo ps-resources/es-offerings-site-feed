@@ -1,9 +1,6 @@
 ---
 layout: page
 title: CodeQL Query Writing Training
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: Learn how to write CodeQL to find new security vulnerabilities or customize the existing rules through our extensive catalog of 2 hour training courses.
 parameterized_name: codeql-query-writing-training
 ---

@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Copilot for Business Fundamentals Training
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
 parameterized_name: copilot-for-business-fundamentals-training
 ---
@@ -40,7 +37,7 @@ Adopting GitHub Copilot can help companies improve their development processes, 
 
 ### Remote
 
-- Unit of Delivery: Class
+- Unit of Delivery: class
 - Participants: maximum 16 students
 
 ### Syllabus
