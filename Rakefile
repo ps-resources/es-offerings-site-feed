@@ -18,6 +18,8 @@ task "test" do
   File.open("_site/feed.json", "r") do |f|
     json = f.read
 
+    puts "Debug feed.json: #{json}"
+
     if valid_json?(json)
       puts "feed.json is valid"
     else
