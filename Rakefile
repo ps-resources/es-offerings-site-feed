@@ -12,11 +12,14 @@ task "test" do
     File.open("_site/feed.json", "r") do |f|
       json = f.read
 
-      puts "Debug feed.json: #{json}"
+      # puts "Debug feed.json: #{json}"
       JSON.parse(json)
     end
+
+    exit 0
   rescue StandardError => e
     puts e.inspect
+
     exit 1
   end
 end
