@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Workflow Consultation
-delivery:
-  method: "`6` hours maximum sync time."
-  unit: Session
 description: Equip your team with the knowledge they need to evaluate, implement, document, and design a workflow solution optimized for your branching and release management strategy.
 parameterized_name: workflow-consultation
 ---

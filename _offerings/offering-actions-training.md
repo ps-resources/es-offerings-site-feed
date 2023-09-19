@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Actions Training
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: This training will enable your teams to start leveraging GitHub Actions in their own projects across a multitude of use cases.
 parameterized_name: actions-training
 ---
@@ -33,7 +30,7 @@ GitHub Actions allow you to automate your workflows. This training will enable y
 
 ### Remote
 
-- Unit of Delivery: Class
+- Unit of Delivery: class
 - Participants: maximum 16 students
 
 ## Syllabus

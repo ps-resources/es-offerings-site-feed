@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Advanced Security - Security Team Training
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: Supports those who are responsible for reviewing, monitoring and driving remediation of security results across an enterprise.
 parameterized_name: ghas-security-team-training
 ---

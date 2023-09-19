@@ -1,9 +1,6 @@
 ---
 layout: page
 title: CodeQL Query Writing Tailored Workshop
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Workshop
 description: This engagement creates a tailored 2 hour training course for using CodeQL to find a security vulnerbility or pattern of your choice.
 parameterized_name: codeql-query-writing-tailored-workshop
 ---
