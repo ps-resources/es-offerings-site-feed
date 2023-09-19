@@ -35,7 +35,7 @@ jobs:
         uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84
         with:
           path: _site
-          key: ges-ci-${{ runner.os }}-htmlproofer
+          key: feed-ci-jekyll-${{ hashFiles('**/_site/feed.json') }}
 
       - name: Run tests
         run: bundle exec rake test
