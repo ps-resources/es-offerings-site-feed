@@ -1,0 +1,41 @@
+name: GitHub Expert Feed CI
+
+on:
+  pull_request:
+    branches: ['main']
+
+permissions:
+  contents: read
+
+concurrency:
+  # allow only one run per branch and event
+  group: ci-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3df4ab11eba7bda6032a0b82a6bb43b11571feac
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v3
+
+      - name: Build Pages
+        uses: actions/jekyll-build-pages@v1
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@5311f05890856149502132d25c4a24985a00d426
+        with:
+          bundler-cache: true
+
+      - name: Check Cache
+        uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84
+        with:
+          path: _site
+          key: ges-ci-${{ runner.os }}-htmlproofer
+
+      - name: Run tests
+        run: bundle exec rake test
