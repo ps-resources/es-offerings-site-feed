@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Technical Advisory Services
-delivery:
-  method: "A minimum commitment of 4 hours per week; committed hours may be more based on contract duration."
-  unit: Days
 description: Identify your organization's top priorities for improving software delivery and enabling a digital transformation.
 parameterized_name: technical-advisory-services
 ---

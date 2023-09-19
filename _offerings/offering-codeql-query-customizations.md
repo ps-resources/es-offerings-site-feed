@@ -1,10 +1,7 @@
 ---
 layout: page
 title: CodeQL Query Customizations
-delivery:
-  method: "`40` hours of enablement and workshops."
-  unit: Workshop
-description: Commission GitHub to customize the existing CodeQL queries to provide better results for your organization.
+description: Commision GitHub to customize the existing CodeQL queries to provide better results for your organization.
 parameterized_name: codeql-query-customizations
 ---
 

@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Admin Training (GitHub Enterprise Cloud)
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: Prepare your GitHub Enterprise Cloud Administrators to maintain a healthy GitHub environment that supports the needs of your development team.
 parameterized_name: admin-training-github-enterprise-cloud
 ---

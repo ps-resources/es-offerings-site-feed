@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Advanced Security - Security Advisory Services
-delivery:
-  method: "A minimum commitment of 4 hours per week; committed hours may be more based on contract duration."
-  unit: Days
 description: Identify your organization’s top priorities for improving your Secure Software Development Lifecycle with GitHub Advanced Security.
 parameterized_name: ghas-security-advisory-services
 ---

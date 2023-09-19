@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub API Training
-delivery:
-  method: "`3` hours per day over 2 days."
-  unit: Class
 description: GitHub’s extensive API allows you to extend the platform to accommodate most modern workflows and easily get the data you need.
 parameterized_name: api-training
 ---

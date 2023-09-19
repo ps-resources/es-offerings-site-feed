@@ -1,9 +1,6 @@
 ---
 layout: page
 title: GitHub Advanced Security - Pilot Team Implementation
-delivery:
-  method: "`6` hours maximum sync time."
-  unit: Workshop
 description: In this engagement we will work with a pilot or lighthouse team to help them enable GitHub Advanced Security for one or more key repositories.
 parameterized_name: ghas-pilot-team-implementation
 ---
