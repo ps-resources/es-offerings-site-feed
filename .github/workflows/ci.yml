@@ -32,7 +32,7 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
 
       - name: Build Pages
-        uses: actions/jekyll-build-pages@v1
+        uses: actions/jekyll-build-pages@058068233b22675635bdf8dfa178d6ae77f12694
         if: steps.cache.outputs.cache-hit != 'true'
 
       - name: Setup Ruby
