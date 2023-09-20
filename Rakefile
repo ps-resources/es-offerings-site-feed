@@ -8,59 +8,53 @@ task "default" => [:test]
 desc "Runs the tests!"
 
 task "test" do
-  begin
-    # test if _site/feed.json is valid
-    File.open("_site/feed.json", "r") do |f|
-      json = f.read
-      
-
-      # puts "Debug feed.json: #{json}"
-      es_offerings_site_feed = JSON.parse(json)
-      
-      # validate the site feed
-      es_offerings_site_feed_schema = {
-        "type" => "object",
-        "required" => ["version", "title", "feed_url", "expired", "items"],
-        "properties" => {
-          "version" => { "type" => "string" },
-          "title" => { "type" => "string" },
-          "feed_url" => { "type" => "string" },
-          "expired" => { "type" => "bool" },
-          "items" => {
-            "type" => "array",
-            "required" => true,
-            "items" => [{
-              "type" => "object",
-              "required" => ["layout", "title", "delivery", "description", "parameterized_name"],
+  # schema definition for _site/feed.json
+  es_offerings_site_feed_schema = {
+    "type" => "object",
+    "required" => ["version", "title", "feed_url", "expired", "items"],
+    "properties" => {
+      "version" => { "type" => "string" },
+      "title" => { "type" => "string" },
+      "feed_url" => { "type" => "string" },
+      "expired" => { "type" => "bool" },
+      "items" => {
+        "type" => "array",
+        "required" => true,
+        "items" => [{
+          "type" => "object",
+          "required" => ["title", "lead", "content", "parameterized_name", "date_published"],
+          "properties" => {
+            "title" => { "type" => "string" },
+            "lead" => { "type" => "string" },
+            "content" => { "type" => "string" },
+            "parameterized_name" => { "type" => "string" },
+            "date_published" => { "type" => "string" },
+            "delivery" => {
+              "type" => ["object", "null"],
+              "required" => ["method", "unit"],
               "properties" => {
-                "layout" => { "type" => "string" },
-                "title" => { "type" => "string" },
-                "delivery" => {
-                  "type" => "object",
-                  "required" => ["method", "unit"],
-                  "properties" => {
-                    "method" => { "type" => "string" },
-                    "unit" => { "type" => "string" }
-                  }
-                },
-                "description" => { "type" => "string" },
-                "parameterized_name" => { "type" => "string" },
+                "method" => { "type" => "string" },
+                "unit" => { "type" => "string" }
               }
-            }]
+            },
           }
-        }
+        }]
       }
-      
-      JSON::Validator.validate(es_offerings_site_feed_schema, es_offerings_site_feed)
-    end
+    }
+  }
+
+  begin
+    raise "_site/feed.json was not found" unless File.exist?("_site/feed.json")
+
+    JSON::Validator.validate!(es_offerings_site_feed_schema, "_site/feed.json")
 
     exit 0
-  rescue Errno::ENOENT => e
-    puts "_site/feed.json was not found"
+  rescue JSON::Schema::ValidationError => e
+    puts e.message
 
     exit 1
-  rescue JSON::Schema::ValidationError
-    puts $!.message
+  rescue StandardError => e
+    puts e.message
 
     exit 1
   end
