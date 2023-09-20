@@ -9,11 +9,11 @@ permissions:
 
 concurrency:
   # allow only one run per branch and event
-  group: ci-${{ github.ref }}-${{ github.event_name }}
+  group: feed-ci-${{ github.ref }}-${{ github.event_name }}
   cancel-in-progress: true
 
 jobs:
-  ci:
+  feed-ci:
     runs-on: ubuntu-latest
 
     steps:
