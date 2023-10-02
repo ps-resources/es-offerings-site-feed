@@ -28,21 +28,35 @@ GitHub Copilot is an AI-powered tool that assists developers in writing code. Th
 
 This bundle comes in three different sizes of engagement (Small, Medium, Large), depending on the scale and complexity of your deployment environment. We provide the following guideline table based on license count, however, a larger or smaller bundle than indicated may be suitable depending on your exact circumstances.
 
-| Size  | Length of Engagement | Advisory Hours | Offerings | Typical License count |
-|:---:|:---:|:---:|:---:|:---:|
-| Small<br> (1 Pilot Team) | 3 month | 152 Hours | 1 x Fundamental Training<br> 1 x Intermediate Training<br> 1 x Hackathon |  200 - 500 licenses |
-| Medium<br> (2 Pilot Team) | 6 month | 400 Hours | 2 x Fundamental Training<br> 2 x Intermediate Training<br> 2 x Hackathon |  500 - 1000 licenses |
-| Large<br> (3 Pilot Team) | 12 month | 600 Hours | 3 x Fundamental Training<br> 3 x Intermediate Training<br> 3 x Hackathon |  1000+ licenses |
+#### **Small**
+- **Length of Engagement:** 3 month
+- **Advisory Hours:** 152 Hours
+- **Offerings:**
+  - 1 x Fundamental Training
+  - 1 x Intermediate Training
+  - 1 x Hackathon
+- **Typical License count:** 200 - 500 licenses
+
+#### **Medium**
+- **Length of Engagement:** 6 month
+- **Advisory Hours:** 400 Hours
+- **Offerings:**
+  - 2 x Fundamental Training
+  - 2 x Intermediate Training
+  - 2 x Hackathon
+- **Typical License count:** 500 - 1000 licenses
+
+#### **Large**
+- **Length of Engagement:** 12 month
+- **Advisory Hours:** 600 Hours
+- **Offerings:**
+  - 3 x Fundamental Training
+  - 3 x Intermediate Training
+  - 3 x Hackathon
+- **Typical License count:** 1000+ licenses
 
 ### **Prerequisites**
 
 Before starting the engagement the following prerequisites will need to be satisfied:
 
 - Sufficient Copilot licenses acquired.
-
-### Prerequisites
-
-- GitHub Enterprise Cloud Account
-- GitHub Copilot Enabled
-- Visual Studio Code, Visual Studio, Neovim, and the JetBrains suite of integrated development environments (IDEs).
-- GitHub Copilot extension installed on the IDE
