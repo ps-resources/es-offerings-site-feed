@@ -28,80 +28,17 @@ GitHub Copilot is an AI-powered tool that assists developers in writing code. Th
 
 This bundle comes in three different sizes of engagement (Small, Medium, Large), depending on the scale and complexity of your deployment environment. We provide the following guideline table based on license count, however, a larger or smaller bundle than indicated may be suitable depending on your exact circumstances.
 
-<table>
-  <tr>
-   <td><strong>Size</strong>
-   </td>
-   <td><strong>Length of engagement</strong>
-   </td>
-   <td><strong>Advisory Hours</strong>
-   </td>
-   <td><strong>Offerings</strong>
-   </td>
-   <td><strong>Typical license count</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Small
-<p>
-1 Pilot Team
-   </td>
-   <td>3 month
-   </td>
-   <td>152 hours
-   </td>
-   <td>1 x Fundamental Training
-<p>
-1 x Intermediate Training
-<p>
-1 x Hackathon
-   </td>
-   <td>200-500 licenses
-   </td>
-  </tr>
-  <tr>
-   <td>Medium
-<p>
-2 Pilot Teams
-   </td>
-   <td>6 month
-   </td>
-   <td>400 hours
-   </td>
-   <td>2 x Fundamental Training
-<p>
-2 x Intermediate Training
-<p>
-2 x Hackathon
-   </td>
-   <td>500-1000 licenses
-   </td>
-  </tr>
-  <tr>
-   <td>Large
-<p>
-3 Pilot Teams
-   </td>
-   <td>12 month
-   </td>
-   <td>600 hours
-   </td>
-   <td>3 x Fundamental Training
-<p>
-3 x Intermediate Training
-<p>
-3 x Hackathon
-   </td>
-   <td>1000+ licenses
-   </td>
-  </tr>
-</table>
+| Size  | Length of Engagement | Advisory Hours | Offerings | Typical License count |
+|:---:|:---:|:---:|:---:|:---:|
+| Small<br> (1 Pilot Team) | 3 month | 152 Hours | 1 x Fundamental Training<br> 1 x Intermediate Training<br> 1 x Hackathon |  200 - 500 licenses |
+| Medium<br> (2 Pilot Team) | 6 month | 400 Hours | 2 x Fundamental Training<br> 2 x Intermediate Training<br> 2 x Hackathon |  500 - 1000 licenses |
+| Large<br> (3 Pilot Team) | 12 month | 600 Hours | 3 x Fundamental Training<br> 3 x Intermediate Training<br> 3 x Hackathon |  1000+ licenses |
 
 ### **Prerequisites**
 
 Before starting the engagement the following prerequisites will need to be satisfied:
 
-* Sufficient Copilot licenses acquired.
+- Sufficient Copilot licenses acquired.
 
 ### Prerequisites
 
