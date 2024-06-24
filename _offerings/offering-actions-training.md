@@ -3,6 +3,8 @@ layout: page
 title: GitHub Actions Training
 description: This training will enable your teams to start leveraging GitHub Actions in their own projects across a multitude of use cases.
 parameterized_name: actions-training
+tag: Optimize
+category: Platform
 ---
 
 ## Overview

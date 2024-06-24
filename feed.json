@@ -15,7 +15,9 @@ permalink: feed.json
       "content": {{ post.content | jsonify }},
       "parameterized_name": {{ post.parameterized_name | jsonify }},
       "delivery": {{ post.delivery | jsonify }},
-      "date_published": "{{ post.date | date_to_xmlschema }}"
+      "date_published": "{{ post.date | date_to_xmlschema }}",
+      "tag": {{ post.tag | jsonify }},
+      "category": {{ post.category | jsonify }}
     }
     {% unless forloop.last %},{% endunless %}{% endfor %}
   ]

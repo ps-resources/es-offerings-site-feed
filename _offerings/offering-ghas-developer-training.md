@@ -3,6 +3,8 @@ layout: page
 title: GitHub Advanced Security - Developer Training
 description: Allows you to have a "developer-first" approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
 parameterized_name: ghas-developer-training
+tag: TODO
+category: Security
 ---
 
 ## Overview

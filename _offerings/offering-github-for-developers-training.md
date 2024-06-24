@@ -3,6 +3,8 @@ layout: page
 title: GitHub for Developers Training
 description: Give your developers confidence with Git and GitHub with hands-on, practical training from GitHub Expert Services.
 parameterized_name: github-for-developers-training
+tag: Adopt
+category: Platform
 ---
 
 ## Overview

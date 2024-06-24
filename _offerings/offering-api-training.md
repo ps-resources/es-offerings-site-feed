@@ -3,6 +3,8 @@ layout: page
 title: GitHub API Training
 description: GitHub’s extensive API allows you to extend the platform to accommodate most modern workflows and easily get the data you need.
 parameterized_name: api-training
+tag: Optimize
+category: Platform
 ---
 
 ## Overview
