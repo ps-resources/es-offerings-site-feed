@@ -3,7 +3,7 @@ layout: page
 title: GitHub Advanced Security - Security Team Training
 description: Supports those who are responsible for reviewing, monitoring and driving remediation of security results across an enterprise.
 parameterized_name: ghas-security-team-training
-tag: TODO
+tag: Onboard
 category: Security
 ---
 

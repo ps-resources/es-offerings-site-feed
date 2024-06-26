@@ -3,7 +3,7 @@ layout: page
 title: GitHub Advanced Security - Pilot Team Implementation
 description: In this engagement we will work with a pilot or lighthouse team to help them enable GitHub Advanced Security for one or more key repositories.
 parameterized_name: ghas-pilot-team-implementation
-tag: TODO
+tag: Adopt
 category: Security
 ---
 

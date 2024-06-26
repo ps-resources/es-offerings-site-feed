@@ -3,7 +3,7 @@ layout: page
 title: GitHub Advanced Security - Getting Started
 description: Supports you in "Getting Started" with GitHub Advanced Security (GHAS) and helps accelerate adoption in the critical first few weeks of deployment.
 parameterized_name: bundle-ghas-getting-started
-tag: TODO
+tag: Onboard
 category: Security
 ---
 
