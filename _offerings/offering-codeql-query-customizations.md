@@ -3,7 +3,7 @@ layout: page
 title: CodeQL Query Customizations
 description: Commision GitHub to customize the existing CodeQL queries to provide better results for your organization.
 parameterized_name: codeql-query-customizations
-tag: TODO
+tag: Optimize
 category: Security
 ---
 
