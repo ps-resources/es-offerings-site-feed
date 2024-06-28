@@ -3,6 +3,8 @@ layout: page
 title: GitHub Admin Training (GitHub Enterprise Server)
 description: Prepare your GitHub Enterprise Server Administrators to maintain a healthy, scalable GitHub environment that supports the needs of your development team.
 parameterized_name: admin-training-github-enterprise-server
+tag: Onboard
+category: Platform
 ---
 
 ## Overview

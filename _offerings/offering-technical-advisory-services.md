@@ -3,6 +3,8 @@ layout: page
 title: GitHub Technical Advisory Services
 description: Identify your organization's top priorities for improving software delivery and enabling a digital transformation.
 parameterized_name: technical-advisory-services
+tag: Optimize
+category: Platform
 ---
 
 ## Overview

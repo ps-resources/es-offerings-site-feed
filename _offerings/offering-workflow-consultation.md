@@ -3,6 +3,8 @@ layout: page
 title: Workflow Consultation
 description: Equip your team with the knowledge they need to evaluate, implement, document, and design a workflow solution optimized for your branching and release management strategy.
 parameterized_name: workflow-consultation
+tag: Optimize
+category: Platform
 ---
 
 ## Overview

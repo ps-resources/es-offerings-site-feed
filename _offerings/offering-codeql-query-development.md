@@ -3,6 +3,8 @@ layout: page
 title: CodeQL Query Development
 description: Commision GitHub to develop CodeQL queries based on your unique business needs.
 parameterized_name: codeql-query-development
+tag: Optimize
+category: Security
 ---
 
 ### Overview

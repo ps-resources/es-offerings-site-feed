@@ -3,6 +3,8 @@ layout: page
 title: Migrations to GitHub Enterprise (GitHub Enterprise Cloud to GitHub Enterprise Cloud EMU)
 description: Ensure your GitHub Enterprise Cloud data is migrated to your GitHub Enterprise Cloud plus Enterprise Managed Users (EMU) platform account accurately and efficiently.
 parameterized_name: migrations-emu
+tag: Onboard
+category: Platform
 ---
 
 ## Overview

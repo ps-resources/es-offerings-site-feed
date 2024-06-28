@@ -3,6 +3,8 @@ layout: page
 title: GitHub Admin Training (GitHub Enterprise Cloud)
 description: Prepare your GitHub Enterprise Cloud Administrators to maintain a healthy GitHub environment that supports the needs of your development team.
 parameterized_name: admin-training-github-enterprise-cloud
+tag: Onboard
+category: Platform
 ---
 
 ## Overview

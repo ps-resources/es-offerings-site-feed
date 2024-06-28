@@ -3,6 +3,8 @@ layout: page
 title: Implementation (GitHub Enterprise Server)
 description: Equip your team with the knowledge they need to configure and manage your GitHub Enterprise Server account.
 parameterized_name: implementation-github-enterprise-server
+tag: Onboard
+category: Platform
 ---
 
 ## Overview

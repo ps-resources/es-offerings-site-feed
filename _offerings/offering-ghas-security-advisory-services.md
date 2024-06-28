@@ -3,6 +3,8 @@ layout: page
 title: GitHub Advanced Security - Security Advisory Services
 description: Identify your organization’s top priorities for improving your Secure Software Development Lifecycle with GitHub Advanced Security.
 parameterized_name: ghas-security-advisory-services
+tag: Optimize
+category: Security
 ---
 
 ## Overview

@@ -3,6 +3,8 @@ layout: page
 title: Migrations to GitHub Enterprise (Standard)
 description: Ensure your Version Control System (VCS) data is migrated to your GitHub Enterprise platform account accurately and efficiently.
 parameterized_name: migrations
+tag: Onboard
+category: Platform
 ---
 
 ## Overview

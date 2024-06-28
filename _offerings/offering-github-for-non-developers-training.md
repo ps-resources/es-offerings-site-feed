@@ -3,6 +3,8 @@ layout: page
 title: GitHub for Non-Developers
 description: Opening GitHub to a broad audience in your organization, gives your developers access to the expertise and diverse ways of thinking that represent your entire user population.
 parameterized_name: github-for-non-developers-training
+tag: Adopt
+category: Platform
 ---
 
 ## Overview
