@@ -47,24 +47,39 @@ This offering provides the following key benefits to customers who wants to leve
 
 This engagement will consist of one session covering the following topics:
 
-- Policies and Settings
-  - Enterprise & Organizational Policies
+- GitHub Copilot Fundamentals Overview
+  - Overview
+  - Requirements
+  - Data Flow
+- GitHub Copilot Intermediate
+  - Architecture
+- GitHub Copilot Policies, Settings, and Features
+  - Enterprise & Organizational Access and Policies
+  - Organizational Features
+    - Knowledge Bases
+    - Content Exclusion
   - Client Side Settings
+    - Network and Firewall Settings
   - IDE Advanced Settings
 - Telemetry
-  - Rest API
+  - REST API
   - Audit Logs
-  - Future Roadmap
+- Integrations
+  - Rest API
+  - GitHub Marketplace Actions
+    - Usage
+    - User Management
+  - GitHub Copilot Metrics Viewer
+  - Audit Logs
+  - GitHub Copilot Extensions
+  - GitHub Copilot Models
 - Data Privacy
   - Personal Data Collection
   - Aiding Secure Development
-  - FAQs
+  - FAQ
 - Troubleshooting
   - Common issues
   - Diagnosing Network issues
-- Integrations
-  - Rest API
-  - Audit Logs
 - Cover questions from the customer
 
 ### Learning outcomes/business outcomes
