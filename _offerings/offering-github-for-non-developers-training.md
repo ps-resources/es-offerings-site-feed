@@ -5,6 +5,7 @@ description: Opening GitHub to a broad audience in your organization, gives your
 parameterized_name: github-for-non-developers-training
 tag: Adopt
 category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview

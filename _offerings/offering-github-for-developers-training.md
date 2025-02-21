@@ -5,6 +5,7 @@ description: Give your developers confidence with Git and GitHub with hands-on, 
 parameterized_name: github-for-developers-training
 tag: Adopt
 category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview
