@@ -5,6 +5,7 @@ description: GitHub Copilot is the world’s first at-scale AI developer tool. S
 parameterized_name: github-copilot-for-business-adoption-at-scale
 tag: Adopt
 category: AI
+is_included_in_premium_plus: true
 ---
 
 ### Overview

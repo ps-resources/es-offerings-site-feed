@@ -5,6 +5,7 @@ description: GitHub’s extensive API allows you to extend the platform to accom
 parameterized_name: api-training
 tag: Optimize
 category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview

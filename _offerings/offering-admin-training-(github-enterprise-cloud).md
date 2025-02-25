@@ -5,6 +5,7 @@ description: Prepare your GitHub Enterprise Cloud Administrators to maintain a h
 parameterized_name: admin-training-github-enterprise-cloud
 tag: Onboard
 category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview

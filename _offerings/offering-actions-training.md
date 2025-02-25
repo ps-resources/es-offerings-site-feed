@@ -5,6 +5,7 @@ description: This training will enable your teams to start leveraging GitHub Act
 parameterized_name: actions-training
 tag: Optimize
 category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview

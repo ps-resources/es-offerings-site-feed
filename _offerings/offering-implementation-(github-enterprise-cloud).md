@@ -5,6 +5,7 @@ description: Equip your team with the knowledge they need to configure and manag
 parameterized_name: implementation-github-enterprise-cloud
 tag: Onboard
 category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview
