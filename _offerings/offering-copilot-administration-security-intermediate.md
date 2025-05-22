@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitHub Copilot for Business Administration and Security
+title: GitHub Copilot administration and security
 description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
-parameterized_name: github-copilot-for-business-administration-security-intermediate
+parameterized_name: github-copilot-administration-security
 tag: Optimize
 category: AI
 is_included_in_premium_plus: true
@@ -10,93 +10,65 @@ is_included_in_premium_plus: true
 
 ### Overview
 
-GitHub Copilot is an AI-powered tool that assists developers in writing code. It analyzes the context in the file you are editing, as well as related files, and offers suggestions from within your text editor. GitHub Copilot also offers additional features such as Copilot Chat which can be used to ask and receive answers to coding-related questions.
+In this session, GitHub's experts will equip your team with the knowledge of GitHub Copilot's policies and settings, telemetry, data privacy, troubleshooting, Integrations, and frequently asked questions.
 
-In this course, GitHub's experts will equip your team with the knowledge of GitHub Copilot's Policies and Settings, Telemetry, Data Privacy, Troubleshooting, Integrations and frequently asked questions.
+### Topics
 
-### Offering level
+* GitHub Copilot fundamentals overview  
+* GitHub Copilot policies, settings, and features  
+* Telemetry  
+* Integrations  
+* Data privacy  
+* Troubleshooting
 
-- Intermediate [200]
+### Customer benefits
 
-### Target Audience
+This offering helps customers:
 
-- Developers
-- Team Leads
-- Engineering Managers
-- Product Security teams
-- DevSecOps teams
-- Org & Enterprise Administrators
+* Strengthen security and compliance  
+* Simplify enterprise-wide administration  
+* Boost operational stability and troubleshooting efficiency  
+* Proactively mitigate risks  
+* Drive continuous improvement with telemetry insights  
+* Accelerate user adoption and satisfaction
 
-### Key features and benefits
+### Learning objectives
 
-This offering provides the following key benefits to customers who wants to leverage GitHub Copilot in their own projects:
+After completing this training, learners will be able to: 
 
-- Best Practices: Enable the best & recommended policies & settings at an Enterprise/ Organisation level
-- Telemetry: Understand what all telemetry data can be fetched from the GitHub instance.
-- Troubleshooting: Get insights into the standard enablement challenges seen & how to resolve them
-- Data Privacy: Understand what all data is captured & how they are processed
-- Integrations: Understand how the GitHub Copilot for Business specific events and License management can be fetched from the GitHub instance.
+* Configure GitHub Copilot the best and recommended policies and settings at an enterprise and/or organization level  
+* Fetch all possible telemetry data from the GitHub instance  
+* Resolve the identified standard enablement challenges  
+* Communicate effectively on what all data is captured and how they are processed by GitHub  
+* Retrieve the GitHub Copilot for Business specific events  
+* Take care of the license management leveraging the REST APIs endpoints provided by GitHub
 
-### Delivery methods
+### Audience
 
-### Remote
+**Required**:
 
-- Unit of Delivery: class
-- Participants: maximum 16 students
+* Product security teams  
+* DevSecOps teams  
+* Org and enterprise administrators
 
-### Syllabus
+**Optional**:
 
-This engagement will consist of one session covering the following topics:
+* Developers  
+* Team leads  
+* Engineering managers
 
-- GitHub Copilot Fundamentals Overview
-  - Overview
-  - Requirements
-  - Data Flow
-- GitHub Copilot Intermediate
-  - Architecture
-- GitHub Copilot Policies, Settings, and Features
-  - Enterprise & Organizational Access and Policies
-  - Organizational Features
-    - Knowledge Bases
-    - Content Exclusion
-  - Client Side Settings
-    - Network and Firewall Settings
-  - IDE Advanced Settings
-- Telemetry
-  - REST API
-  - Audit Logs
-- Integrations
-  - Rest API
-  - GitHub Marketplace Actions
-    - Usage
-    - User Management
-  - GitHub Copilot Metrics Viewer
-  - Audit Logs
-  - GitHub Copilot Extensions
-  - GitHub Copilot Models
-- Data Privacy
-  - Personal Data Collection
-  - Aiding Secure Development
-  - FAQ
-- Troubleshooting
-  - Common issues
-  - Diagnosing Network issues
-- Cover questions from the customer
+### Delivery details
 
-### Learning outcomes/business outcomes
+* **Level:** Intermediate \[200\]  
+* **Offering type:** Training  
+* **Format:** Remote or onsite class  
+* **Class size:** 15 participant maximum (with some flexibility)  
 
-After this engagement, your Enterprise/ Organisation admins will be able to:
+### Customer prerequisites
 
-- Enable the best & recommended policies & settings at an Enterprise/Organisation level
-- Fetch all possible telemetry data from the GitHub instance
-- Resolve the identified standard enablement challenges
-- Communicate effectively on what all data is captured & how they are processed by GitHub
-- Retrieve the GitHub Copilot for Business specific events
-- Take care of the License management leveraging the REST APIs endpoints provided by GitHub
-  
-### Prerequisites
+Before this training, the customer needs to have in place:
 
-- GitHub Enterprise Cloud Account with Enterprise Owner/ Org Admin Access
-- GitHub Copilot Enabled
-- Visual Studio Code, Visual Studio, Neovim, and the JetBrains suite of integrated development environments (IDEs).
-- GitHub Copilot extension installed on the IDE
+* GitHub Enterprise Cloud Account with Enterprise Owner/ Org Admin Access  
+* GitHub Copilot Enabled  
+* Visual Studio Code, Visual Studio, Neovim, and the JetBrains suite of integrated development environments (IDEs).  
+* GitHub Copilot extension installed on the IDE
