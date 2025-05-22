@@ -53,6 +53,13 @@ By the end of this training, learners will be able to:
 
 * N/A
 
+### Delivery details
+
+* **Level:** Fundamentals \[100\]  
+* **Offering type:** Training  
+* **Format:** Remote  
+* **Class size:** 15 participant maximum (with some flexibility)  
+
 ### Customer prerequisites
 
 Before this training, the customer needs to have in place:
