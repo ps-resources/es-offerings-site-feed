@@ -8,7 +8,7 @@ category: AI
 is_included_in_premium_plus: true
 ---
 
-# Overview
+### Overview
 
 In this session, GitHub’s experts will work closely with the customer’s developers and other engineers to teach them about the advanced capabilities of GitHub Copilot. Throughout the course, there will be a dialogue between the customer and GitHub’s experts to guide them towards effective prompt engineering skills, share best practices, and reveal some tips and tricks to unlock new levels of productivity.
 
@@ -17,7 +17,7 @@ GitHub Copilot advanced is a high-level offering. As such, it is targeted at dev
 * GitHub Copilot fundamentals  
 * GitHub Copilot intermediate
 
-# Topics
+### Topics
 
 * Prompt engineering  
 * Best practices  
@@ -34,7 +34,7 @@ GitHub Copilot advanced is a high-level offering. As such, it is targeted at dev
 * Copilot code review  
 * Copilot for pull requests
 
-# Customer benefits
+### Customer benefits
 
 This offering will help customers:
 
@@ -42,7 +42,7 @@ This offering will help customers:
 * Use the best practices of GitHub Copilot to avoid inaccurate responses and wasted time.  
 * Enhance deep technical knowledge of GitHub Copilot, and LLMs in general, for maximum productivity and efficiency.
 
-# Learning objectives
+### Learning objectives
 
 By the end of this training, learners will be able to:
 
@@ -52,7 +52,7 @@ By the end of this training, learners will be able to:
 * Enable GitHub Copilot Autofix to have code-scanning vulnerabilities in the customer’s repositories automatically remediated.  
 * Implement GitHub Copilot in every aspect of the software development process.
 
-# Audience
+### Audience
 
 **Required**:
 
@@ -65,14 +65,14 @@ By the end of this training, learners will be able to:
 * DevOps engineers  
 * Test engineers
 
-# Delivery details
+### Delivery details
 
 * **Level:** Advanced \[300\]  
 * **Offering type:** Training  
 * **Format:** Remote  
 * **Class size:** 15 participants maximum  (with some flexibility)  
 
-# Customer prerequisites
+### Customer prerequisites
 
 Before this training, the customer needs to have in place:
 
