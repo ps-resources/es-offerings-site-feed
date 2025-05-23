@@ -7,61 +7,62 @@ tag: Onboard
 category: Platform
 ---
 
-## Overview
+### Overview
 
-Ensure your Version Control System (VCS) data is migrated to your GitHub Enterprise platform account accurately and efficiently. GitHub Expert Services delivers guidance and best practice expertise with guidance and best practice expertise from a GitHub Expert Services Delivery Engineer.
+In this session, GitHub’s experts will guide customers through the process of migrating their VCS data to GitHub Enterprise. The training covers best practices, tools, and techniques to ensure a smooth and efficient migration.
 
-## Target Audience
+### Topics
 
-- VCS Admins
-- GitHub Enterprise Admins
+- Review of current VCS environment
+- Migration plan development
+- Enablement of migration tooling
+- Proof of concept migration of several repositories
+- Guidance and best practices for full repository set migration
+- 30-days migration support with a GitHub migration specialist
+
+### Customer benefits
+
+This offering will help customers:
+
+- Improve understanding of the migration processes
+- Enhance ability to manage and execute migrations
+- Reduce risks and complexities associated with migrations
+- Access expert guidance and support to accelerate the migration process
+
+### Learning objectives
+
+By the end of this training, learners will be able to:
+
+- Evaluate their current VCS environment
+- Develop a comprehensive migration plan with timelines
+- Enable and operate migration tooling effectively
+- Execute proof of concept migrations
+- Apply best practices for full repository migrations
+
+### Audience
+
+**Required**:
+
 - DevOps Engineers
+- GitHub Enterprise Admins
+- Source VCS Admins
 
-## Key Features and Benefits
+**Optional**:
 
-- The Standard Migration scopes supported for this engagement are VCS sources listed below:
-  - GitHub (pre-exsiting versions of supported GitHub instances)
-  - GitLab
-  - BitBucket
-- Examine migration scenarios and best practices
-- Expert advice on approaches for source VCS to Git migration
-- Crafting of repeatable playbooks, enabling future self-serve migrations
+- Teams within the company who will perform the migration
 
-*_Note: Non listed VCS are treated as third-party sources and are not supported via our Standard Migration Engagement._
+### Delivery details
 
-## Schedule of Work
+- **Level:** Intermediate [200]
+- **Offering type:** Training
+- **Format:** Remote or onsite class
+- **Class size:** 20 participants maximum
+- **Schedule (days and hours):** 6 days; 8 hours per day
 
-### Remote
+### Customer prerequisites
 
-Additional scoping required
+Before this training, the customer needs to have in place:
 
-### Onsite
-
-Additional scoping required
-
-## Syllabus
-
-In this engagement, a GitHub Expert Services Engineer will guide you through the process of migrating your VCS sources to the GitHub Enterprise target. This includes:
-
-- Documentation of migration process and considerations
-- Clean up of large binaries
-- Consolidation, clean up of branches
-- Version control history trimming
-- Review source VCS to Git migration utilities
-- Aid in source VCS to Git history migration dry-runs
-- Crafting of repeatable playbooks, enabling future self-serve migrations
-
-## Business Outcomes
-
-After this engagement, your team will be able to:
-
-- Create migration strategy
-- Prepare repositories for Git
-- Complete migration dry runs
-- Support production migrations
-
-## Prerequisites
-
-- An SSH client
-- Git 2.7 or greater
-- Ensure every employee has a GitHub Enterprise Server account
+- GitHub Enterprise Cloud Account
+- GitHub Enterprise configured for developer use
+- Identification of teams within the company who will perform the migration
