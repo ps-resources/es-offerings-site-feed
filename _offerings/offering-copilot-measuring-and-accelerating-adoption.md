@@ -54,10 +54,6 @@ After completing this training, learners will be able to:
 ### Delivery details
 
 - **Level:** Intermediate \[200\]
-- **Offering type:** Training
-- **Format:** Remote
-- **Class size:** 20 participant maximum
-- **Schedule (days and hours):** 1 day; 3 hours
 
 ### Customer prerequisites
 
