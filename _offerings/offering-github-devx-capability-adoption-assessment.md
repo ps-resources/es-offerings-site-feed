@@ -61,12 +61,6 @@ After completing this assessment, customers will:
 - **Class size:** No maximum
 - **Schedule (days and hours):** The Capability adoption assessment comes in three different sizes (small, medium, large) depending on the scale and complexity of the customer:
 
-| Size   | Duration | Hours      | Licenses     |
-|--------|----------|------------|--------------|
-| Small  | 4 weeks  | 80 hours   | 200 - 500    |
-| Medium | 6 weeks  | 120 hours  | 500 - 1,000  |
-| Large  | 10 weeks | 200 hours  | 1,000+       |
-
 ### Customer prerequisites
 
 Before this training, the customer needs to have in place:
