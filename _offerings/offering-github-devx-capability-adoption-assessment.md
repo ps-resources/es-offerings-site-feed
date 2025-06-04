@@ -60,7 +60,6 @@ After completing this assessment, customers will:
 - **Offering type:** Assessment
 - **Format:** Remote or onsite
 - **Class size:** No maximum
-- **Schedule (days and hours):** The Capability adoption assessment comes in three different sizes (small, medium, large) depending on the scale and complexity of the customer:
 
 ## Customer prerequisites
 
