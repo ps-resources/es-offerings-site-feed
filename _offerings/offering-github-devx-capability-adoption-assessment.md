@@ -1,8 +1,8 @@
 ---
 layout: page
 title: GitHub Capability Adoption Assessment
-description: Supports those who are responsible for reviewing, monitoring and driving remediation of security results across an enterprise.
-parameterized_name: ghas-security-team-training
+description: A tailored evaluation that helps customers understand their GitHub maturity and provides expert recommendations to reduce risk, cut costs, and drive growth.
+parameterized_name: gh-capability-adoption-assessment
 tag: Onboard
 category: Governance
 ---
