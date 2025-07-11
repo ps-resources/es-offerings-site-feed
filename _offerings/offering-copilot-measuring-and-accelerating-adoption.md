@@ -2,7 +2,7 @@
 layout: page
 title: GitHub Copilot Measuring and Accelerating adoption
 description: This training will provide foundational understanding of how to collect and evaluate GitHub Copilot metrics and best practices and frameworks that can help accelerate GitHub Copilot adoption and impact.
-parameterized_name: actions-training
+parameterized_name: copilot-measuring-accelerating-adoption-training
 tag: Optimize
 category: Platform
 is_included_in_premium_plus: true
