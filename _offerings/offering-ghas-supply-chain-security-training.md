@@ -56,7 +56,6 @@ After completing this training, learners will be able to:
 - **Offering type:** Training
 - **Format:** Remote
 - **Class size:** 16 participants maximum
-- **Schedule:** 1 day, 4 hours
 
 ### Customer prerequisites
 
