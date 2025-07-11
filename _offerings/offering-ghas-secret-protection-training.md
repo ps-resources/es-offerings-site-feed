@@ -2,7 +2,7 @@
 layout: page
 title: GitHub Secret Protection Training
 description: Allows you to have a "developer-first" approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
-parameterized_name: ghas-developer-training
+parameterized_name: ghas-secret-protection-training
 tag: Onboard
 category: Security
 ---
