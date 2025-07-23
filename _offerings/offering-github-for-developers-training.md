@@ -10,81 +10,67 @@ is_included_in_premium_plus: true
 
 ## Overview
 
-Give your developers confidence with Git and GitHub with hands-on, practical training from GitHub Expert Services. With GitHub for Developers, your team will spend two days working with a GitHub Expert to gain a solid understanding of Git, how to apply GitHub Flow in their existing projects, and how to handle common situations that occur when working in Distributed Version Control Systems. Most importantly, your team will learn how to collaborate more effectively to write quality code.
+No matter how your organization works, communication and collaboration are key to success.
 
-## Target Audience
+In the GitHub Intermediate training offering, your team will learn more about the tools and techniques that foster effective collaboration on GitHub.
 
-- Developers
-- Quality
-- Security
+This offering builds on the GitHub Fundamentals offering by using hands-on scenarios and examples backed by instructor-led training from the GitHub Expert Services team.
+
+Starting with a deep dive into Git, your team will learn how to collaborate with one another using Distributed Version Control Systems. The training will then shift to learning about communication via pull requests and how teams can drive rapid innovation while ensuring proper safeguards are in place.
+
+## Topics
+
+- Distributed version control systems
+- Effective collaboration on GitHub
+- Development strategies
+- Continuous integration / continuous delivery (CI/CD)
+
+## Customer benefits
+
+The offering will help customers:
+
+- Implement effective troubleshooting with Git
+- Improve collaboration across teams
+- Reduce time to identify bugs
+- Increase speed of innovation
+
+## Learning objectives
+
+After completing this training, learners will be able to:
+
+- Use GitHub flow for rapid iteration
+- Communicate effectively with GitHub
+- Use Git and GitHub to troubleshoot issues
+- Release and deploy projects automatically
+
+## Audience
+
+**Required**:
+
+- DevOps Engineers
+- Quality Assurance Engineers
+- Software Developers
+- Systems Administrators
+- Technical Writers
+
+**Optional**:
+
+- Designers
 - Project Managers
-- Documentation
+  
+## Delivery details
 
-## Key Features and Benefits
+- **Level:** Intermediate \[200\]
+- **Offering type:** Training
+- **Format:** Remote or onsite class
+- **Class size:** 16 participants maximum
 
-During the training we create multiple individual repositories for each learner. This creates a hands-on experience and allows for optimal understanding of Git and GitHub in real repository projects.
+## Customer prerequisites
 
-## Delivery Methods
+Before this training, the customer needs to have in place:
 
-### Remote
-
-- Unit of Delivery: Class
-- Participants: Maximum 16 students
-
-## Syllabus
-
-Participants can expect a challenging, hands-on learning experience with plenty of opportunities to ask questions and apply new concepts to their work. Each day’s content is built upon the previous day so it’s important that all participants attend all training sessions.
-
-#### Project 1
-
-- Introduction to Git and GitHub
-- GitHub Flow
-- Working locally
-- Git configurations
-- Git aliases
-- Collaborating in pull requests and issues
-- Branching with Git
-- Editing on GitHub
-- Merging pull requests
-
-#### Project 2
-
-- Understanding of how merge conflicts happen
-- Resolving merge conflicts both on GitHub and on the command line
-
-#### Project 3
-
-- Understanding workflows
-- Protected branches
-- Git bisect
-- Helpful Git commands
-- Atomic commits
-- Reverting commits
-- Viewing local changes
-- Tags and releases
-
-#### Project 4
-
-- Creating local repositories
-- Fixing commits
-- Git reset
-- Cherry picking
-- Git reflog
-- Merge strategies
-- Git rebase
-- Git squash
-
-## Learning Outcomes
-
-After completing this training, learnings will be able to:
-
-- Apply the GitHub Flow
-- Collaborate effectively
-- Maximize Git and GitHub
-- Troubleshoot common issues
-
-## Prerequisites
-
-Learners for this training will need to complete the following checklist prior to class:
-
-- [Getting Ready for Class](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+- A GitHub account
+- Access to a GitHub organization or repository
+- Basic computer literacy
+- Internet access
+- Zoom or Teams installed
