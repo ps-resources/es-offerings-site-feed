@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot advanced
-description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
+description: GitHub’s experts will work closely with the customer’s developers and other engineers to teach them about the advanced capabilities of GitHub Copilot. Throughout the course, there will be a dialogue between the customer and GitHub’s experts to guide them towards effective prompt engineering skills, share best practices, and reveal some tips and tricks to unlock new levels of productivity.
 parameterized_name: github-copilot-advanced
 tag: Optimize
 category: AI
