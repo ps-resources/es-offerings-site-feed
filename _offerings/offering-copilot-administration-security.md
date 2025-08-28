@@ -1,8 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot administration and security
-description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
-parameterized_name: github-copilot-administration-security
+description: GitHub's experts will equip your team with the knowledge of GitHub Copilot's policies and settings, telemetry, data privacy, troubleshooting, Integrations, and frequently asked questions.
 tag: Optimize
 category: AI
 is_included_in_premium_plus: true
