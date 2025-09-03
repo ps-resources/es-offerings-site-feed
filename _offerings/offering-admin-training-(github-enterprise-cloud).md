@@ -21,7 +21,6 @@ GitHub Application Admins
 - Properly configure your GitHub Enterprise Cloud account to meet your organization's needs
 - Improve the developer experience by selecting appropriate organization settings
 - Identify the recommended options and configurations to reach your desired outcomes
-- Enable protected branches, issues, GitHub Pages and more
 - Locate metrics from your GitHub Enterprise organization
 - Audit critical activities performed on your GitHub Enterprise Cloud account
 
@@ -73,5 +72,5 @@ After completing this training, admins will be able to:
 
 - Provision the GitHub Enterprise Cloud organization you will be using
 - All users with computers, accounts, and access for GitHub.com
-- Ensure at least one attendee has owner or administrator access
-- Designate one owner or administrator to share their screen during activities
+- Ensure at least one attendee will have administrator access (enterprise, organization and repository)
+- Designate one or more administrators to share their screen during activities
