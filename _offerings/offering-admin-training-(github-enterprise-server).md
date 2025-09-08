@@ -23,11 +23,8 @@ Prepare your GitHub Enterprise Server Administrators to maintain a healthy, scal
 - Implement a more secure and dependable instance that is prepared to scale with your organization
 - Improve the developer experience by selecting appropriate options
 - Identify the options and configurations to reach your desired outcomes
-- Enable protected branches, issues, GitHub Pages and more
-- Demonstrate daily and advanced user behavior on GitHub
 - Locate metrics within your GitHub Enterprise instance
 - Audit critical activities performed on your GitHub Enterprise Server instance
-- Implement high availability and backup instances based on your organization's needs
 
 ## Delivery Methods
 
@@ -38,43 +35,29 @@ Prepare your GitHub Enterprise Server Administrators to maintain a healthy, scal
 
 ## Syllabus
 
-Participants can expect a combination of classroom learning and hands-on activities that build experience and confidence using the GitHub Enterprise Cloud platform.
+Participants can expect a combination of classroom learning and hands-on activities that build experience and confidence using the GitHub Enterprise Server platform.
 
-- GitHub Enterprise setup
-  - Accessing the instance
-  - SSH access & command line utilities
-  - Hostname and subdomain isolation
-  - Authentication and privacy
-- Working on GitHub
-  - Create branches and pull requests
-  - Configure protected branches
-  - Configure required status checks
-  - GitHub Pages
-- Maintaining a healthy instance
-  - Monitoring
-  - Maintenance mode
-  - Version upgrades
-  - High availability replica instance
-  - Backup utilities
-- Site Administration
-  - Admin center (advanced settings)
-  - Audit account activities
-  - Repository settings
-- User administration
-  - Account impersonation
-  - Manage dormant users
-  - Organizations and teams
-- The GitHub API
-  - API Overview
-  - REST API and GraphQL
-  - GitHub platform-samples
-  - Integrate tests and results using the Status API
-  - Deploy with GitHub
-  - Webhooks
-  - Scripts and automation
-- Advanced user behavior and administration
-  - Unhealthy repositories
-  - Changing history with Git
+### Day 1
+- GitHub Enterprise overview
+  - Platforms
+  - Permission flow
+  - Enterprise administration
+  - Settings walkthrough
+- GitHub organizations
+  - Overview
+  - Administration and policies
+  - Settings walkthrough
+
+### Day 2
+- GitHub repositories
+  - Overview
+  - Repository administration
+  - Branch protection and CODEOWNERS file
+  - Settings walkthrough
+- Additional topics
+  - API overview and authentication methods
+  - GitHub Actions
+  - GitHub Marketplace
 
 ## Learning & Business Outcomes
 
@@ -91,6 +74,6 @@ After completing this training, admins will be able to:
 ## Prerequisites
 
 - A staging instance for use during the training
-- All users with computers, accounts, and access for GitHub.com
-- Ensure that all attendees will have administrator access
-- Designate one administrator to share their screen during activities
+- All users with computers, accounts, and access for the staging instance
+- Ensure at least one attendee will have administrator access (enterprise, organization and repository)
+- Designate one or more administrators to share their screen during activities
