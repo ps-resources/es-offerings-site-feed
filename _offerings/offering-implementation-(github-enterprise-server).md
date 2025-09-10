@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implementation (GitHub Enterprise Server)
-description: Equip your team with the knowledge they need to configure and manage your GitHub Enterprise Server account.
+description: GitHub Enterprise Server is the center of software development for your organization. In this highly tailored session, GitHub's implementation experts will equip your team with the knowledge they need to deploy and configure your GitHub Enterprise Server instance, providing long-term security and reliability.
 parameterized_name: implementation-github-enterprise-server
 tag: Onboard
 category: Platform
