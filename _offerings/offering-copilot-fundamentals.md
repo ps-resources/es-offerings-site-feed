@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot fundamentals
-description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
+description: GitHub’s experts will equip participants with the knowledge of GitHub Copilot’s core features, business benefits, and practical usage.
 parameterized_name: copilot-fundamentals
 tag: Adopt
 category: AI
