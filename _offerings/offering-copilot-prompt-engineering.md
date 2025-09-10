@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot prompt engineering
-description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
+description: GitHub’s experts will provide the participants with the knowledge and techniques necessary to design and refine prompts to elicit the most accurate, relevant and valuable responses from large language model-based systems such as GitHub Copilot.
 parameterized_name: github-copilot-prompt-engineering
 tag: Optimize
 category: AI
