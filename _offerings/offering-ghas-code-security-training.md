@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Advanced Security Code Security
-description: Allows you to have a "developer-first" approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
+description: GitHub’s experts will guide participants through practical labs and exercises, enabling engineers to immediately apply GitHub Code Security features within their repositories.
 parameterized_name: ghas-code-security-training
 tag: Onboard
 category: Security
