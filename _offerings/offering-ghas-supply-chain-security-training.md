@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub supply chain security training
-description: Allows you to have a "developer-first" approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
+description: GitHub’s experts guide participants through practical labs and exercises, enabling engineers to immediately apply GitHub supply chain security products and features within their repositories.
 parameterized_name: ghas-supply-chain-security-training
 tag: Onboard
 category: Security
