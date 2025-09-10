@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Measuring and accelerating GitHub Copilot impact
-description: GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
+description: GitHub’s experts will provide a comprehensive guide to leveraging qualitative and quantitative data, best practices, and frameworks to measure, monitor, and drive GitHub Copilot impact.
 parameterized_name: github-copilot-adoption-usage-metrics
 tag: Optimize
 category: AI
