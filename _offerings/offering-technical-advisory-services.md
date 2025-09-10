@@ -9,45 +9,60 @@ category: Platform
 
 ## Overview
 
-GitHub's Technical Advisory Services pairs you up with an expert from GitHub's team to identify your organization's top priorities for improving software delivery and enabling a digital transformation. With these priorities in mind you and this advisor will build out a roadmap to accomplish these priorities, check in weekly to track progress, and have asynchronous communication channels available to work together to accomplish your goals.
+In this engagement, you will be paired up with an expert from GitHub’s team to identify your organization’s top priorities for improving software delivery and enabling a digital transformation. With these priorities in mind, you and this advisor will build out a roadmap to accomplish these priorities, check in weekly to track progress, and have asynchronous communication channels available to work together to accomplish your goals.
 
-## Target Audience
+## Topics
 
+- Developing digital transformation with identified priorities
+- Identifying and defining top priorities
+- Building a roadmap and tracking progress
+- Weekly progress tracking and check-ins
+- Asynchronous communication and collaboration
+- Advising on GitHub best practices
+
+## Customer benefits
+
+The results customers experience from this offering:
+
+- Direct, dedicated guidance, and support from a GitHub Expert
+- Access to AI industry leaders’ expertise and wealth of knowledge
+- Robust strategic objectives and progress tracking
+- Delivery methods flexibility (Q\&A workshops, onsite visits, recurring meetings, hands-on development of Proof-of-Concepts)
+- Collaborative and dedicated repository for async work
+- Potential direct line of communication with our product team for product feedback
+
+## Goal statements
+
+After completing this engagement, customers will:
+
+- Identify, define and accomplish top technology priorities that align with the enterprise’s business needs related to DevOps, AI tooling and GitHub best practices.
+- Build infrastructure to support growing use of GitHub effectively across multiple products such as Actions, Copilot, Repositories, and administrative governance via automation and manual processes.
+- Gain expert-level knowledge of GitHub administration, governance and compliance. This includes manual processes and automation. Automation practices include Probot, webhooks, Copilot spaces and much more patterns.
+- Obtain a plan and guidance during execution for a GitHub migration from any other competing platforms including GitHub Server, [GitHub.com](http://GitHub.com), Azure DevOps, GitLab, Jenkins, CircleCI, and more to any GitHub platform such as GitHub Server, [GitHub.com](http://Github.com) and/or GitHub EMU.
+
+## Audience
+
+**Required**:
+
+- Org and enterprise administrators
+
+**Optional**:
+
+- Developers
+- Team leads
+- Engineering managers
 - CTO
 - CIO
-- GitHub Admins
 
-## Key Features and Benefits
+## Delivery details
 
-- Develop digital transformation with an eye towards identified priorities
-- Identify a named resource to work with on top priorities to save you valuable time
-- Use Slack, a shared GitHub repo for collaboration, and an identified set of success criteria to works towards identifying goals
-- Receive consulting and advising on paths to success with a GitHub Expert
+- **Level:** Intermediate \[200\] to Advanced \[300\]
+- **Offering type:** Advisory service
+- **Format:** Combination of remote and onsite meetings
 
-## Delivery Methods
+## Customer prerequisites
 
-Delivered as a combination of remote and onsite meetings for a total of 40 days in a year with 2 onsite visits.
+Before this training, the customer needs to have in place:
 
-## Syllabus
-
-In the beginning weeks of the year-long engagement your team will work closely with a GitHub Solution Architect to establish the success criteria and software delivery abilities that your organization needs to accomplish your goals. Then, we will meet weekly to ensure we are accomplishing these goals. Your Solution Architect will work with you to advise you on GitHub best practices and help you build a strong foundation on GitHub's offerings.
-
-- Report on progress against the success criteria and scoping for upcoming sessions
-- Prioritize areas for improvement
-- Develop a plan to accomplish top tasks
-- Weekly check-ins to track progress against initiatives
-- Identify your organization's abilities and areas for improvement
-- Coordination between GitHub team members to drive completion of initiatives
-
-## Business Outcomes
-
-After this engagement, your team will be able to:
-
-- Identify and accomplish your organization's top priorities
-- Infrastructure to meet the needs of your growing use of GitHub
-- Expert level knowledge of administration of GitHub
-
-## Prerequisites
-
-- An identified resource to work closely with the GitHub Solution Architect throughout the year
-- Availability of leadership team to work with the Solution Architect closely to establish success criteria
+- An identified resource to work closely with the GitHub Solution Architect
+- Availability of the leadership team to establish success criteria
