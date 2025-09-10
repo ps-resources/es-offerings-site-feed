@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot intermediate
-description:GitHub's experts will guide your team to leverage GitHub Copilot capabilities by enabling them on good coding techniques, best practices and prompt engineering, and secure coding. Attendees will also have the opportunity to try all of this themselves during a 1-hour guided exercise component during the training.
+description: GitHub's experts will guide your team to leverage GitHub Copilot capabilities by enabling them on good coding techniques, best practices and prompt engineering, and secure coding. Attendees will also have the opportunity to try all of this themselves during a 1-hour guided exercise component during the training.
 parameterized_name: github-copilot-intermediate
 tag: Optimize
 category: AI
