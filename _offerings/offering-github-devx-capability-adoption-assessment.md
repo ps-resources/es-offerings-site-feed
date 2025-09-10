@@ -2,6 +2,7 @@
 layout: page
 title: GitHub Capability Adoption Assessment
 description: This tailored assessment pairs you with a team of GitHub experts to help you assess and evaluate your current (or future) GitHub Platform usage. Through a series of interviews, we will help you understand the capabilities across the entire GitHub Platform and quickly identify opportunities for improvement based on recommended GitHub practices and offerings.
+parameterized_name: gh-capability-adoption-assessment
 tag: Onboard
 category: Governance
 ---
