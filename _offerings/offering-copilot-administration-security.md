@@ -2,6 +2,7 @@
 layout: page
 title: GitHub Copilot administration and security
 description: GitHub's experts will equip your team with the knowledge of GitHub Copilot's policies and settings, telemetry, data privacy, troubleshooting, Integrations, and frequently asked questions.
+parameterized_name: github-copilot-administration-security
 tag: Optimize
 category: AI
 is_included_in_premium_plus: true
