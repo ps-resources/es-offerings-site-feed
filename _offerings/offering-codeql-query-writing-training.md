@@ -7,53 +7,74 @@ tag: Optimize
 category: Security
 ---
 
+### Introduction
+
+The **CodeQL query writing** training is a **1-day, 4-hour training** that provides customers with foundational understanding of [GitHub CodeQL](https://codeql.github.com/).
+
 ### Overview
 
-One of the most compelling aspects of CodeQL is its extensibility. Rather than
-being limited to a set of out of the box functions, new functionality can be
-added by authoring new queries using a powerful and comprehensive programming
-language called QL. Having the ability to author new CodeQL queries has a number
-of advantages such as being able to find new security vulnerabilities and being
-able to model new frameworks and codebases to provide higher-fidelity query
-results.
+In this session, GitHub’s experts will guide teams through the fundamentals of CodeQL query writing, enabling them to extend security coverage beyond built-in queries and tailor analysis to their unique codebases.
 
-To support effective use of CodeQL, this engagement offers a systematic approach
-to learning CodeQL through the use of a structured set of 2 hour courses on
-topics relevant to new and experienced CodeQL authors. It offers introductory,
-intermediate, and advanced courses in the following areas:
+The syllabus combines presentations, live demonstrations, and hands-on labs, along with dedicated Q\&A time with a CodeQL expert.
 
-- **QL Core** - Which teaches the QL language fundamentals
-- **Language Dependent Features** - Which teaches the specific details of using
-  CodeQL (and the standard library) for a given programming language.
-- **CodeQL Tooling, Infrastructure, and Practice** - Which covers a variety of
-  topics in using the non-query related aspects of CodeQL in deployment and
-  command line scenarios.
-- **CodeQL Explorations and Projects** - Which covers advanced topics in CodeQL
-  as well as custom designed projects such as capture the flag exercises.
+After this training, your teams will be able to confidently write and customize CodeQL queries, adapt existing queries for specific patterns, and apply best practices for effective vulnerability detection within GitHub Advanced Security.
 
-### Target Audience
+### Topics
 
-- Security Researchers
-- Application Security Teams
-- Software Engineering Technical Leads
+- Understand CodeQL
+- Syntax & CodeQL fundamentals
+- Reading & refining queries
+- Executing & understanding queries
+- Create validated queries & tests
+- Advanced patterns
 
-### Key Features and Benefits
+### Customer benefits
 
-- A guided interactive training with a CodeQL expert to gain a deeper understanding of CodeQL.
-- Gain proficiency in the topics covered.
-- Learn reusable patterns for query development for similar problems.
-- Receive example CodeQL databases, queries and learning material for continuing your learning after the session.
+The results customers experience from this offering:
 
-### Syllabus
+- Detect vulnerabilities unique to their codebases
+- Strengthen security and compliance posture
+- Reduce reliance on manual code reviews
+- Accelerate time to remediation
+- Build custom security checks tailored to their applications
 
-Each course will be delivered as a 2 hour interactive remote session. An engagement will typically consist of multiple courses delivered as part of a "learning path" tailored towards your goals.
+### Learning objectives
 
-### Learning/Business Outcomes
+After completing this training, learners will be able to:
 
-- Enhanced understanding of CodeQL topics covered by the selected training modules.
-- Participants will be able to apply the patterns and approaches covered in the session to similar problems.
-  
-### Prerequisites
+- Understand CodeQL
+- Read and modify queries to improve precision
+- Run queries and inspect results
+- Reduce noise in findings and improve triage
+- Validate queries with tests to ensure reliability
+- Package and share queries using QLPacks
+- Apply advanced patterns for performance
+- Maintain queries for long-term use and adoption
 
-- A CodeQL Analysis Engineer has discussed your training goals and has ensured that the courses are available for the topics you want to learn about.
-- A CodeQL Analysis Engineer has made a recommendation for a learning path.
+### Audience
+
+**Required**:
+
+- Developers
+- Security Engineers
+
+**Optional**:
+
+- Team leads
+
+### Delivery details
+
+- **Level:** Fundamentals \[100\]
+- **Offering type:** Training
+- **Format:** Remote
+- **Class size:** 16 participants maximum
+- **Schedule:** 1 day; 4 hours
+- **Customer pre-work:** Yes, details will be provided before the session starts.
+
+### Customer prerequisites
+
+Before this training, the customer needs to have in place:
+
+- GitHub account
+- CodeQL extension
+- CodeQL CLI
