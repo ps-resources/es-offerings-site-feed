@@ -43,7 +43,6 @@ In this engagement, a GitHub professional will guide you through the process of 
 - Selecting security settings to fit your business environment
 - Configuring high availability and backups
 - Reviewing essential best practices for users and teams
-- Leveraging GitHub Enterprise Pages
 - Leveraging repository and organization webhooks for integrations
 
 _Note: The syllabus is reviewed periodically and may change to ensure updated content are presented._
