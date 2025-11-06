@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub for Developers Training
+title: GitHub Copilot strategic planning
 description: provides customers with a comprehensive understanding of the value and impact of adopting GitHub Copilot
 parameterized_name: github-copilot-strategic-planning
 tag: Adopt
