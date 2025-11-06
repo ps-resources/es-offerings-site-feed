@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitHub Copilot Agents and MCP offering (training) 
+title: GitHub Copilot Agents and MCP
 description: The **GitHub Copilot Agents and MCP** offering is a **4-hours training session** that provides customers with a more in-depth understanding of [GitHub Copilot](https://github.com/features/copilot), especially the coding agent, agent mode in your IDE and MCP servers to automate and streamline their software delivery and operations processes effectively.
-parameterized_name: github-copilot-agents-and-mcp.md
+parameterized_name: github-copilot-agents-and-mcp
 tag: Optimize
 category: AI
 is_included_in_premium_plus: true
@@ -57,9 +57,6 @@ After completing this training, learners will be able to:
 - **Level:** Intermediate \[200\]
 - **Offering type:** Training
 - **Format:** Remote
-- **Class size:** 15 participants maximum
-- **Schedule:** 1 day; 4 hours
-- **Customer pre-work:** Yes, instructions will be provided prior to the session
 
 ### Customer prerequisites
 
