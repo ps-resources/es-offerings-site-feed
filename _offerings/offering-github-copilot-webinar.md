@@ -74,8 +74,6 @@ Learning objectives will vary depending on the webinar chosen. After completing 
 - **Level:** Fundamental \[100\] or Intermediate \[200\]  
 - **Offering type:** Training  
 - **Format:** Remote  
-- **Class size:** 500 participant maximum  
-- **Schedule:** 1 day; 2 hours  
 - **Customer pre-work:** Confirmation audience has completed **ALL** prerequisites.
 
 ### Customer prerequisites
