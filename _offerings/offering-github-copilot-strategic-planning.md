@@ -67,8 +67,6 @@ After completing this service, customers will:
 - **Level:** Intermediate \[200\]  
 - **Offering type:** Advisory  
 - **Format:** Remote or onsite  
-- **Class size:** 15 participant maximum (with some flexibility)  
-- **Schedule:** 1 day; 2 hours  
 - **Customer pre-work:** Confirmation audience has ALL prerequisites completed.
 
 ### Customer prerequisites
