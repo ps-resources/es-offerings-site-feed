@@ -56,8 +56,6 @@ By the end of this training, learners will be able to:
 - **Level:** Intermediate \[200\]  
 - **Offering type:** Training  
 - **Format:** Remote or onsite class  
-- **Class size:** 20 participants maximum  
-- **Schedule (days and hours):** 6 days; 8 hours per day  
 - **Customer pre-work:** Yes, details will be provided before the session starts
 
 ### Customer prerequisites
