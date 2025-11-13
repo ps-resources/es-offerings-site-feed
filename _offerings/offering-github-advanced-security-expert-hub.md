@@ -58,8 +58,6 @@ After completing this service, customers will:
 - **Level:** Fundamentrals \[100\]  
 - **Offering type:** Advisory service  
 - **Format:** Remote  
-- **Class size:** 20 participant maximum to facilitate discussion  
-- **Schedule:** 4 days, 1 hour per day  
 - **Customer pre-work:** Gather internal information about developer expectations (e.g. remediation timelines, exception process, innersource contributions etc.)
 
 ### Customer prerequisites
