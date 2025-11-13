@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: GitHub Copilot Expert Hub offering (training)
 description: GitHub experts guide participants through the core concepts, benefits, and practical implementation of an Expert Hub.
@@ -69,8 +69,6 @@ By the end of this training, learners will be able to:
 - **Level:** Fundamentals \[100\]  
 - **Offering type:** Training  
 - **Format:** Remote  
-- **Class size:** 15 participants maximum (with some flexibility)  
-- **Schedule:** 1 day; 1 hour  
 - **Customer pre-work:** Confirmation audience has **ALL** prerequisites completed.
 
 ### Customer prerequisites
