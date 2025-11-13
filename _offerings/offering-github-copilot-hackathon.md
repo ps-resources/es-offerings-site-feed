@@ -63,8 +63,6 @@ After completing this training, learners will be able to:
 - **Level:** Intermediate \[200\]  
 - **Offering type:** Training  
 - **Format:** Remote or onsite class  
-- **Class size:** 100 participant maximum (with some flexibility)  
-- **Schedule:** 1 day; 8 hours  
 - **Customer pre-work:** Confirmation audience has ALL prerequisites completed
 
 ### Customer prerequisites
