@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Actions Intermediate Training
-description: GitHub’s experts enable teams to enhance their use of GitHub Actions at an enterprise level across a multitude of use cases: CI/CD, administrative tasks, project management, and more.
+description: GitHub’s experts enable teams to enhance their use of GitHub Actions at an enterprise level across a multitude of use cases as CI/CD, administrative tasks, project management, and more.
 parameterized_name: actions-intermediate-training
 tag: Optimize
 category: Platform
