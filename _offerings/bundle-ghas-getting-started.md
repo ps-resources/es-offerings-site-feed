@@ -27,10 +27,10 @@ This bundle supports you in "Getting Started" with GitHub Advanced Security (GHA
 
 This bundle contains the following individual offerings:
 
-- 1 x GHAS Code Security training (4 hour session)
-- 1 x GHAS Secret Protection training (4 hour session)
-- 1 x GHAS Supply chain security training (4 hour session)
-- 1 x GHAS webinar for developers (1 hour session)
+- 1 x GitHub Advanced Security - Code Security Training (4 hour session)
+- 1 x GitHub Advanced Security - Secret Protection Training (4 hour session)
+- 1 x GitHub Advanced Security - Supply Chain Security Training (4 hour session)
+- 1 x GitHub Advanced Security - Webinars for developers (1 hour session)
 - 1 x Pilot team implementation (2 x 2 hour sessions)
 - 1 x Security results review (2 hour session)
 - Security Advisory Services (kick-off, review, wrap up sessions as required, plus planning/support time)
