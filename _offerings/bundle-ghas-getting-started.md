@@ -20,7 +20,6 @@ This bundle supports you in "Getting Started" with GitHub Advanced Security (GHA
 - Provide targeted training for key stakeholders (security teams, developers, build & infrastructure teams) to raise awareness and understanding, and help them use GitHub Advanced Security effectively.
 - Hands-on guidance for enabling a key pilot team, remediating problems and providing a blueprint for further deployment.
 - Learn and apply best practices for deploying GitHub Advanced Security in your organization.
-- Work with a GHAS expert to develop a comprehensive rollout and deployment plan.
 - Accelerate adoption of Advanced Security within your organization.
 - Avoid common pitfalls and problems
 
@@ -28,9 +27,10 @@ This bundle supports you in "Getting Started" with GitHub Advanced Security (GHA
 
 This bundle contains the following individual offerings:
 
-- 1 x GHAS Rollout & Deployment Training (2 hour session)
-- 1 x GHAS Security Team Training (2 hour session)
-- 1 x GHAS Developer Training (2 hour session)
+- 1 x GitHub Advanced Security - Code Security Training (4 hour session)
+- 1 x GitHub Advanced Security - Secret Protection Training (4 hour session)
+- 1 x GitHub Advanced Security - Supply Chain Security Training (4 hour session)
+- 1 x GitHub Advanced Security - Webinars for developers (1 hour session)
 - 1 x Pilot team implementation (2 x 2 hour sessions)
 - 1 x Security results review (2 hour session)
 - Security Advisory Services (kick-off, review, wrap up sessions as required, plus planning/support time)
