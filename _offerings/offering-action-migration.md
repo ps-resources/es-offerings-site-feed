@@ -1,9 +1,10 @@
 ---
 layout: page
 title: GitHub Actions Migration
-navbar: datasheetNav
-order: 1
-skipIcon: true
+description: This offering enables organizations to successfully migrate their CI/CD pipelines from legacy platforms (Jenkins, CircleCI, Travis CI, GitLab CI, Azure DevOps, etc.) to GitHub Actions while modernizing their automation workflows.
+tag: Optimize
+category: Platform
+is_included_in_premium_plus: true
 ---
 
 ## Overview
@@ -43,14 +44,7 @@ This offering helps customers:
 - Platform Engineers  
 - Release Engineers  
 - Infrastructure Engineers  
-- SRE Teams
-
-## Delivery details
-
-- **Level:** Advanced \[300\]  
-- **Offering type:** Service  
-- **Format:** Remote  
-- **Class size:** N/A  
+- SRE Teams 
 
 ## Customer prerequisites
 
