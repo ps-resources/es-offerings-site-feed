@@ -5,6 +5,7 @@ description: This offering enables organizations to successfully migrate their C
 tag: Optimize
 category: Platform
 is_included_in_premium_plus: true
+parameterized_name: actions-migration
 ---
 
 ## Overview
@@ -44,7 +45,13 @@ This offering helps customers:
 - Platform Engineers  
 - Release Engineers  
 - Infrastructure Engineers  
-- SRE Teams 
+- SRE Teams
+
+## Delivery details
+
+- **Level:** Advanced \[300\]  
+- **Offering type:** Service  
+- **Format:** Remote  
 
 ## Customer prerequisites
 
