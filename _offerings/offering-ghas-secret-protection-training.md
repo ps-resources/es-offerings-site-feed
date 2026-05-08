@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub Secret Protection Training
+title: GitHub Advanced Security - Secret Protection Training
 description: GitHub’s experts guide participants through practical labs and exercises, enabling engineers to immediately apply GitHub Secret Protection within their repositories.
 parameterized_name: ghas-secret-protection-training
 tag: Onboard

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub GHAS Webinars
+title: GitHub Advanced Security - Webinars
 description: The GitHub Advanced Security webinar is a one-hour training session that introduces customers to the core features and benefits of GitHub Advanced Security products.
 parameterized_name: github-ghas-webinars
 tag: Optimize

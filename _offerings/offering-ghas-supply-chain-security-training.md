@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub supply chain security training
+title: GitHub Advanced Security - Supply Chain Security Training
 description: GitHub’s experts guide participants through practical labs and exercises, enabling engineers to immediately apply GitHub supply chain security products and features within their repositories.
 parameterized_name: ghas-supply-chain-security-training
 tag: Onboard
