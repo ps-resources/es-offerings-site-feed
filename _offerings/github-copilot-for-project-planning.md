@@ -1,17 +1,17 @@
 ---
 layout: page
 title: GitHub Copilot for Project Planning
-description: Learn how to write CodeQL to find new security vulnerabilities or customize the existing rules through our extensive catalog of 2 hour training courses.
+description: Learn how to automate project workflows, optimize team productivity, and drive better project outcomes using Copilot’s AI-driven and automation capabilities—covering the entire project lifecycle from initiation to closure. 
 parameterized_name: github-copilot-for-project-planning
 tag: Optimize
-category: Security
+category: AI
 ---
 
-# Overview
+## Overview
 
 In this session, GitHub experts will guide participants in leveraging GitHub Copilot’s advanced features for project planning, tracking, automation, and reporting. Designed with non-coder/project stakeholder personas in mind, this offering provides hands-on enablement and use-case-driven demonstrations to help participants maximize value from GitHub Copilot, Agents (including Custom Agents), Projects and GitHub Copilot Spaces. Attendees will learn how to automate project workflows, optimize team productivity, and drive better project outcomes using Copilot’s AI-driven and automation capabilities—covering the entire project lifecycle from initiation to closure.
 
-# Topics
+## Topics
 
 - Introduction to GitHub Copilot for Project Planning
 - Automating project management workflows with Agents and Custom Agents
@@ -24,7 +24,7 @@ In this session, GitHub experts will guide participants in leveraging GitHub Cop
 - Hands-on labs: real-world use-case demonstrations
 - Frequently asked questions
 
-# Customer benefits
+## Customer benefits
 
 This offering will help customers:
 
@@ -35,7 +35,7 @@ This offering will help customers:
 - Accelerate adoption of GitHub Projects and Copilot Features through hands-on guidance
 - Implement responsible AI controls, project guardrails, and governance according to organizational requirements
 
-# Learning objectives
+## Learning objectives
 
 By the end of this training, learners will be able to:
 
@@ -45,7 +45,7 @@ By the end of this training, learners will be able to:
 - Apply best practices for project collaboration, filtering, and monitoring on GitHub
 - Integrate projects with GitHub Actions, Agents, Agentic workflows and CI/CD for streamlined delivery
 
-# Audience
+## Audience
 
 **Required**:
 
@@ -60,7 +60,7 @@ By the end of this training, learners will be able to:
 - Product Owners
 - Any non-developer stakeholders driving, tracking, or reporting on projects using GitHub
 
-# Delivery details
+## Delivery details
 
 - **Level:** Fundamentals [100]
 - **Offering type:** Training
