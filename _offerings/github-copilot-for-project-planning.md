@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot for Project Planning
-description: Learn how to automate project workflows, optimize team productivity, and drive better project outcomes using Copilot’s AI-driven and automation capabilities—covering the entire project lifecycle from initiation to closure. 
+description: Learn how to automate project workflows, optimize team productivity, and drive better project outcomes using Copilot’s AI-driven and automation capabilities—covering the entire project lifecycle from initiation to closure.
 parameterized_name: github-copilot-for-project-planning
 tag: Optimize
 category: AI
