@@ -44,8 +44,8 @@ Through guided working sessions and applied enablement support, customers establ
 
 This offering helps customers:
 
-- Accelerate, goal‑aligned adoption of GitHub products and features 
-- Provide clear, role‑based learning paths for identified personas 
+- Accelerate, goal-aligned adoption of GitHub products and features
+- Provide clear, role-based learning paths for identified personas
 - Relevant, customized learning content tailored to the customer environment 
 - Scalable education model that integrates with existing learning platforms 
 - A repeatable foundation for sustained enablement and maturity growth 
