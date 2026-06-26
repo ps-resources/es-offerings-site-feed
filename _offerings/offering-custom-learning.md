@@ -12,7 +12,7 @@ is_included_in_premium_plus: true
 
 The Custom Learning offering is a tailored 100-hour engagement that enables customers to design and deliver targeted GitHub learning experiences aligned to their business and engineering goals. 
 In this Custom Learning engagement, GitHub Customer Enablement experts partner with customers to design and deliver targeted learning experiences aligned to GitHub products, features, and business objectives. The engagement focuses on understanding customer goals, audiences, and current state, then curating and developing learning content that supports effective adoption across teams. 
-Through guided working sessions and applied enablement support, customers establish structured, role‑based learning paths that reinforce best practices, operational workflows, and GitHub product capabilities—helping translate platform investments into sustained business and engineering outcomes. 
+Through guided working sessions and applied enablement support, customers establish structured, role-based learning paths that reinforce best practices, operational workflows, and GitHub product capabilities—helping translate platform investments into sustained business and engineering outcomes.
 
 ## Topics
 
