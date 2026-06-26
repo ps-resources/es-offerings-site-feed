@@ -46,9 +46,9 @@ This offering helps customers:
 
 - Accelerate, goal-aligned adoption of GitHub products and features
 - Provide clear, role-based learning paths for identified personas
-- Relevant, customized learning content tailored to the customer environment 
-- Scalable education model that integrates with existing learning platforms 
-- A repeatable foundation for sustained enablement and maturity growth 
+- Provide relevant, customized learning content tailored to the customer environment
+- Establish a scalable education model that integrates with existing learning platforms
+- Create a repeatable foundation for sustained enablement and maturity growth 
   
 ## Audience
 
