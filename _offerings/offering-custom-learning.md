@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Custom Learning
-description:  This tailored 100-hour engagement that enables customers to design and deliver targeted GitHub learning experiences aligned to their business and engineering goals.
+description: A tailored 100-hour engagement that enables customers to design and deliver targeted GitHub learning experiences aligned to their business and engineering goals.
 parameterized_name: custom-learning
 tag: Optimize
 category: AI
@@ -16,7 +16,7 @@ Through guided working sessions and applied enablement support, customers establ
 
 ## Topics
 
-### Learning Path Design and Strategic Enablement Planning ###
+### Learning Path Design and Strategic Enablement Planning
 
 - A structured, goal‑driven learning curriculum aligned to their business and engineering priorities 
 - Clearly defined learning paths mapped to roles (e.g., developers, admins, platform teams) 
@@ -24,7 +24,7 @@ Through guided working sessions and applied enablement support, customers establ
 - Alignment between GitHub product capabilities and the customer’s desired adoption and maturity outcomes 
 - A repeatable learning framework that supports sustained enablement at scale  
 
-### Content Customization and Development ###
+### Content Customization and Development
 
 - Curated GitHub learning content tailored to their products, features, and use cases 
 - Customized materials that reflect the customer’s environment, workflows, and priorities
@@ -32,7 +32,7 @@ Through guided working sessions and applied enablement support, customers establ
 - Targeted learning assets that reinforce adoption of GitHub best practices 
 - Content designed to drive relevance, engagement, and immediate application 
 
-### Learning Platform Integration and Testing ###
+### Learning Platform Integration and Testing
 
 - Guidance integrating curated learning content into their existing learning platforms or delivery tools 
 - Validation that learning materials are accessible, structured, and aligned to the intended learning journey 
@@ -56,7 +56,7 @@ This offering helps customers:
 
 - Technical Leads or Product Owners 
 - Enablement/Learning Leads 
-- Champions or Early Adoptors 
+- Champions or Early Adopters 
 
 ## Delivery details
 
@@ -71,23 +71,23 @@ This offering helps customers:
 
 Before this training, the customer needs to have in place:
 
-### Business context and goals ###
+### Business context and goals
 
 - Defined business and engineering goals the enablement effort should support 
 - Target GitHub products and features in scope (e.g., Copilot, Actions, Admin/Governance, etc)
 
-### Key stakeholders and ownership ###
+### Key stakeholders and ownership
 
 - Identified learning or enablement lead to act as primary point of contact 
 - Named decision makers for scope, priorities, and delivery approvals 
 - Agreement on required vs. optional participation for target audiences 
 
-### Audience and personas ###
+### Audience and personas
 
 - Identified primary personas to enable (e.g., developers, administrators, platform teams) 
 - Approximate audience size and role distribution 
 
-### Learning requirements ###
+### Learning requirements
 
 - Clarity on whether training or enablement activities are mandatory or optional 
 - Success criteria for completion (e.g., completion tracking, certifications, adoption milestones) 
