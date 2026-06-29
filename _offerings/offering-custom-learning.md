@@ -82,8 +82,8 @@ Before this training, the customer needs to have in place:
 
 ### Audience and personas
 
-- Identified primary personas to enable (e.g., developers, administrators, platform teams) 
-- Approximate audience size and role distribution 
+- Identified primary personas to enable (e.g., developers, administrators, platform teams)
+- Approximate audience size and role distribution
 
 ### Learning requirements
 
