@@ -49,7 +49,7 @@ This offering helps customers:
 - Provide relevant, customized learning content tailored to the customer environment
 - Establish a scalable education model that integrates with existing learning platforms
 - Create a repeatable foundation for sustained enablement and maturity growth
-  
+
 ## Audience
 
 **Required**:
