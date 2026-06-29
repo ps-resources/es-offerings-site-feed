@@ -10,19 +10,19 @@ is_included_in_premium_plus: true
 
 ## Overview
 
-The Custom Learning offering is a tailored 100-hour engagement that enables customers to design and deliver targeted GitHub learning experiences aligned to their business and engineering goals. 
-In this Custom Learning engagement, GitHub Customer Enablement experts partner with customers to design and deliver targeted learning experiences aligned to GitHub products, features, and business objectives. The engagement focuses on understanding customer goals, audiences, and current state, then curating and developing learning content that supports effective adoption across teams. 
-Through guided working sessions and applied enablement support, customers establish structured, role-based learning paths that reinforce best practices, operational workflows, and GitHub product capabilities—helping translate platform investments into sustained business and engineering outcomes.
+ The Custom Learning offering is a tailored 100-hour engagement that enables customers to design and deliver targeted GitHub learning experiences aligned to their business and engineering goals.
+ In this Custom Learning engagement, GitHub Customer Enablement experts partner with customers to design and deliver targeted learning experiences aligned to GitHub products, features, and business objectives. The engagement focuses on understanding customer goals, audiences, and current state, then curating and developing learning content that supports effective adoption across teams.
+ Through guided working sessions and applied enablement support, customers establish structured, role‑based learning paths that reinforce best practices, operational workflows, and GitHub product capabilities—helping translate platform investments into sustained business and engineering outcomes.
 
 ## Topics
 
 ### Learning Path Design and Strategic Enablement Planning
 
-- A structured, goal-driven learning curriculum aligned to their business and engineering priorities
-- Clearly defined learning paths mapped to roles (e.g., developers, admins, platform teams)
-- Sequenced content that progresses from foundational concepts to applied, real-world workflows
-- Alignment between GitHub product capabilities and the customer’s desired adoption and maturity outcomes 
-- A repeatable learning framework that supports sustained enablement at scale  
+ - A structured, goal‑driven learning curriculum aligned to their business and engineering priorities
+ - Clearly defined learning paths mapped to roles (e.g., developers, admins, platform teams)
+ - Sequenced content that progresses from foundational concepts to applied, real‑world workflows
+ - Alignment between GitHub product capabilities and the customer’s desired adoption and maturity outcomes
+ - A repeatable learning framework that supports sustained enablement at scale
 
 ### Content Customization and Development
 
@@ -48,7 +48,7 @@ This offering helps customers:
 - Provide clear, role-based learning paths for identified personas
 - Provide relevant, customized learning content tailored to the customer environment
 - Establish a scalable education model that integrates with existing learning platforms
-- Create a repeatable foundation for sustained enablement and maturity growth 
+- Create a repeatable foundation for sustained enablement and maturity growth
   
 ## Audience
 
@@ -56,15 +56,13 @@ This offering helps customers:
 
 - Technical Leads or Product Owners 
 - Enablement/Learning Leads 
-- Champions or Early Adopters 
+- Champions or Early Adoptors 
 
 ## Delivery details
 
-- **Level:** 100-300+
-- **Offering type:** Custom Services
+- **Level:** Fundamentals [100] to Advanced [300]
+- **Offering type:** Service
 - **Format:** Remote
-- **Class size:** Not applicable [working with sponsors]
-- **Schedule:** Not applicable [aligned to standard services advisory hours] 
 - **Customer pre-work:** Yes, details will be provided before the session starts.
 
 ## Customer prerequisites
