@@ -54,9 +54,9 @@ This offering helps customers:
 
 **Required**:
 
-- Technical Leads or Product Owners 
-- Enablement/Learning Leads 
-- Champions or Early Adopters 
+- Technical Leads or Product Owners
+- Enablement/Learning Leads
+- Champions or Early Adopters
 
 ## Delivery details
 
