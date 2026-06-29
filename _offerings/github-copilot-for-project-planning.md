@@ -16,7 +16,7 @@ In this session, GitHub experts will guide participants in leveraging GitHub Cop
 - Automating project management workflows with Agents and Custom Agents
 - AI-assisted project tracking, updating, and reporting
 - Integration with GitHub Actions and continuous delivery
-- Agentic Workflows Opportunity
+- Agentic workflow opportunities
 - Advanced visualization, filtering, and sorting in GitHub Projects
 - Best practices for project collaboration and execution
 - Governance, guardrails, and compliance for project stakeholders
