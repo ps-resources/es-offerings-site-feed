@@ -34,10 +34,10 @@ Through guided working sessions and applied enablement support, customers establ
 
 ### Learning Platform Integration and Testing
 
-- Guidance integrating curated learning content into their existing learning platforms or delivery tools 
-- Validation that learning materials are accessible, structured, and aligned to the intended learning journey 
-- Testing to ensure content supports learner navigation, engagement, and completion 
-- A scalable approach to delivering GitHub education consistently across teams 
+- Guidance integrating curated learning content into their existing learning platforms or delivery tools
+- Validation that learning materials are accessible, structured, and aligned to the intended learning journey
+- Testing to ensure content supports learner navigation, engagement, and completion
+- A scalable approach to delivering GitHub education consistently across teams
 - Confidence that learning experiences are ready for broader rollout and ongoing use
 
 ## Customer benefits
