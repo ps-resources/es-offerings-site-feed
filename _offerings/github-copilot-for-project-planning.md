@@ -61,7 +61,7 @@ By the end of this training, learners will be able to:
 
 ## Delivery details
 
-- **Level:** Fundamentals [100]
+- **Level:** Fundamentals \[100\]
 - **Offering type:** Training
 - **Format:** Remote
 - **Class size:** 15 participants maximum (with some flexibility)- 
