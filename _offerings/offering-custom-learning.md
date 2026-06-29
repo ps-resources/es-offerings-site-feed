@@ -87,6 +87,6 @@ Before this training, the customer needs to have in place:
 
 ### Learning requirements
 
-- Clarity on whether training or enablement activities are mandatory or optional 
-- Success criteria for completion (e.g., completion tracking, certifications, adoption milestones) 
+- Clarity on whether training or enablement activities are mandatory or optional
+- Success criteria for completion (e.g., completion tracking, certifications, adoption milestones)
 - Understanding of learning platforms, existing learning subscriptions, and communication mechanisms.
