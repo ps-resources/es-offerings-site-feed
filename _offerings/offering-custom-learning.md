@@ -56,7 +56,7 @@ This offering helps customers:
 
 - Technical Leads or Product Owners 
 - Enablement/Learning Leads 
-- Champions or Early Adoptors 
+- Champions or Early Adopters 
 
 ## Delivery details
 
