@@ -26,11 +26,11 @@ Through guided working sessions and applied enablement support, customers establ
 
 ### Content Customization and Development
 
-- Curated GitHub learning content tailored to their products, features, and use cases 
+- Curated GitHub learning content tailored to their products, features, and use cases
 - Customized materials that reflect the customer’s environment, workflows, and priorities
-- Practical examples and scenarios grounded in real customer development and operational contexts 
-- Targeted learning assets that reinforce adoption of GitHub best practices 
-- Content designed to drive relevance, engagement, and immediate application 
+- Practical examples and scenarios grounded in real customer development and operational contexts
+- Targeted learning assets that reinforce adoption of GitHub best practices
+- Content designed to drive relevance, engagement, and immediate application
 
 ### Learning Platform Integration and Testing
 
