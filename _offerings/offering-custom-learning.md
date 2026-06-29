@@ -18,11 +18,11 @@ Through guided working sessions and applied enablement support, customers establ
 
 ### Learning Path Design and Strategic Enablement Planning
 
- - A structured, goal‑driven learning curriculum aligned to their business and engineering priorities
- - Clearly defined learning paths mapped to roles (e.g., developers, admins, platform teams)
- - Sequenced content that progresses from foundational concepts to applied, real‑world workflows
- - Alignment between GitHub product capabilities and the customer’s desired adoption and maturity outcomes
- - A repeatable learning framework that supports sustained enablement at scale
+- A structured, goal‑driven learning curriculum aligned to their business and engineering priorities
+- Clearly defined learning paths mapped to roles (e.g., developers, admins, platform teams)
+- Sequenced content that progresses from foundational concepts to applied, real‑world workflows
+- Alignment between GitHub product capabilities and the customer’s desired adoption and maturity outcomes
+- A repeatable learning framework that supports sustained enablement at scale
 
 ### Content Customization and Development
 
