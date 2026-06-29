@@ -76,9 +76,9 @@ Before this training, the customer needs to have in place:
 
 ### Key stakeholders and ownership
 
-- Identified learning or enablement lead to act as primary point of contact 
-- Named decision makers for scope, priorities, and delivery approvals 
-- Agreement on required vs. optional participation for target audiences 
+- Identified learning or enablement lead to act as primary point of contact
+- Named decision makers for scope, priorities, and delivery approvals
+- Agreement on required vs. optional participation for target audiences
 
 ### Audience and personas
 
