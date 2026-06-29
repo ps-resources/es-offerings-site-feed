@@ -71,7 +71,7 @@ Before this training, the customer needs to have in place:
 
 ### Business context and goals
 
-- Defined business and engineering goals the enablement effort should support 
+- Defined business and engineering goals the enablement effort should support
 - Target GitHub products and features in scope (e.g., Copilot, Actions, Admin/Governance, etc)
 
 ### Key stakeholders and ownership
