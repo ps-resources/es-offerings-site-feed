@@ -1,8 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot for Project Planning
-description: Learn how to automate project workflows, optimize team productivity, and drive better project outcomes using Copilot’s AI-driven and automation capabilities—covering the entire project lifecycle from initiation to closure.
-parameterized_name: github-copilot-for-project-planning
+description: Learn how to use GitHub Copilot, GitHub Projects, and agents to plan, track, and automate project work for better visibility and outcomes.parameterized_name: github-copilot-for-project-planning
 tag: Optimize
 category: AI
 ---
@@ -54,8 +53,8 @@ By the end of this training, learners will be able to:
 - Engineering Leads
 - Scrum Masters
 
-**Recommended**:
-
+ **Optional**:
+ 
 - Team Leads
 - Product Owners
 - Any non-developer stakeholders driving, tracking, or reporting on projects using GitHub
@@ -65,6 +64,7 @@ By the end of this training, learners will be able to:
 - **Level:** Fundamentals [100]
 - **Offering type:** Training
 - **Format:** Remote
-- **Class size:** 15 participants maximum (with some flexibility)
+- **Class size:** 15 participants maximum (with some flexibility)- 
 - **Schedule:** 2 days; 3 hours
-- **Customer pre-work:** Confirmation audience has **ALL** prerequisites completed.
+- **Customer pre-work:** Confirmation audience has
+- **ALL** prerequisites completed.
