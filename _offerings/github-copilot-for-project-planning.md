@@ -5,6 +5,7 @@ description: Learn how to use GitHub Copilot, GitHub Projects, and agents to pla
 parameterized_name: github-copilot-for-project-planning
 tag: Optimize
 category: AI
+is_included_in_premium_plus: true
 ---
 
 ## Overview
