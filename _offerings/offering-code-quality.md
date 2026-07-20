@@ -25,7 +25,7 @@ Delivered as a blend of presentations and guided demo walkthroughs, the training
 ## Customer benefits
 
 The offering will help customers:
-- Reduce manual triage burden as the “github-code-quality[bot]” automatically surfaces reliability and maintainability findings in PRs. 
+- Reduce manual triage burden as the “github-code-quality[bot]” automatically surfaces reliability and maintainability findings in PRs.
 - Accelerate remediation with Copilot Autofix, which generates AI-powered remediation suggestions directly in the PR workflow or for existing code findings without requiring a separate Copilot license.
 - Gain visibility into organization-wide and repository-level code quality, enabling data-driven decisions about where to focus on engineering investment.
 
