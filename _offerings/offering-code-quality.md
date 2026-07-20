@@ -52,13 +52,6 @@ After completing this training, learners will be able to:
 - Engineering managers tracking code reliability and maintainability metrics
 - DevOps / platform engineers managing GitHub organization settings
 
-## Delivery details
-
-- **Level:** Intermediate [200]
-- **Offering type:** Training
-- **Format:** Remote
-- **Class size:** 15 participant maximum (with some flexibility)
-
 ## Customer prerequisites
 
 Before this training, the customer needs to have in place:
