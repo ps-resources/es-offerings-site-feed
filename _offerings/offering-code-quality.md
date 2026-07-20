@@ -63,7 +63,7 @@ After completing this training, learners will be able to:
 
 Before this training, the customer needs to have in place:
 
-- GitHub Enterprise Cloud.
-- GitHub Actions enabled on target repositories.
-- Repositories contain at least one supported language: C#, Go, Java, JavaScript, Python, Ruby, or TypeScript.
-- Repository admin or organization owner access for the enabling user (required for Repository Enablement API configuration).
+- GitHub Enterprise Cloud
+- GitHub Actions enabled on target repositories
+- Repositories contain at least one supported language: C#, Go, Java, JavaScript, Python, Ruby, or TypeScript
+- Repository admin or organization owner access for the enabling user (required for Repository Enablement API configuration)
