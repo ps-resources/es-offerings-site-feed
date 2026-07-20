@@ -31,7 +31,7 @@ The offering will help customers:
 
 ## Learning objectives
 
-After completing this training, learners will be able to: 
+After completing this training, learners will be able to:
 
 - Interpret code quality ratings, severities, and rules.
 - Use PR-native “github-code-quality[bot]” findings.
