@@ -35,7 +35,7 @@ After completing this training, learners will be able to:
 
 - Interpret code quality ratings, severities, and rules.
 - Use PR-native “github-code-quality[bot]” findings.
-- Remediate safely: manual, Copilot Autofix, cloud agent, or dismiss.
+- Remediate safely: manual remediation, Copilot Autofix, cloud agent, or dismiss findings.
 - Improve existing code with Standard and AI findings.
 - Measure impact and report progress to stakeholders.
 
