@@ -1,8 +1,8 @@
 ---
 layout: page
 title: GitHub Code Quality
-description: This interactive session gives participants an introduction to GitHub Code Quality: GitHub’s dedicated product for identifying and remediating reliability and maintainability issues within code repositories.
-parameterized_name: code-quality-training
+description: This interactive session gives participants an introduction to GitHub Code Quality, GitHub’s dedicated product for identifying and remediating reliability and maintainability issues within code repositories.
+parameterized_name: github-code-quality-training
 tag: Optimize
 category: Security
 is_included_in_premium_plus: true
