@@ -10,8 +10,8 @@ is_included_in_premium_plus: true
 
 ## Overview
 
-This interactive session gives participants an introduction to GitHub Code Quality: GitHub’s dedicated product for identifying and remediating reliability and maintainability issues within code repositories. 
-Delivered as a blend of presentations and guided demo walkthroughs, the training covers how to enable GitHub Code Quality at scale, how the “github-code-quality[bot]” surfaces findings on pull requests and turns each PR into an opportunity to improve code quality, and how Copilot Autofix accelerates remediation of existing code issues. 
+This interactive session gives participants an introduction to GitHub Code Quality: GitHub’s dedicated product for identifying and remediating reliability and maintainability issues within code repositories.
+Delivered as a blend of presentations and guided demo walkthroughs, the training covers how to enable GitHub Code Quality at scale, how the “github-code-quality[bot]” surfaces findings on pull requests and turns each PR into an opportunity to improve code quality, and how Copilot Autofix accelerates remediation of existing code issues.
 
 ## Topics
 
