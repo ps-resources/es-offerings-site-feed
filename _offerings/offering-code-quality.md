@@ -56,7 +56,7 @@ After completing this training, learners will be able to:
 - **Level:** Intermediate [200]
 - **Offering type:** Training 
 - **Format:** Remote
-- **Class size:** 15 participants maximum (with some flexibility)  
+- **Class size:** 15 participant maximum (with some flexibility)
 
 ## Customer prerequisites
 
