@@ -35,10 +35,12 @@ This offering will help customers:
 
 By the end of this training, learners will be able to:
 
-- Get started with GitHub Copilot and utilize its core features
-- Apply prompt engineering techniques to generate meaningful GitHub Copilot suggestions
-- Optimize their GitHub Copilot experience by implementing best practices and techniques
-- Navigate governance controls and address common implementation questions to ensure responsible AI usage
+- Demonstrate how to use GitHub Copilot's core features in common development workflows
+- Apply prompt engineering techniques to improve the quality and relevance of GitHub Copilot outputs
+- Optimize GitHub Copilot usage by implementing proven practices and workflows
+- Evaluate agent responses and direct GitHub Copilot agents to achieve intended outcomes
+- Analyze common implementation scenarios to promote responsible AI use
+- Develop solutions for real-world use cases using GitHub Copilot capabilities
 
 ## Audience
 
