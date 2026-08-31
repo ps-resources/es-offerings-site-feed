@@ -34,11 +34,11 @@ The offering will help customers:
 
 After completing this training, learners will be able to:
 
-- Navigate GitHub’s interface and repositories
-- Create and edit Markdown files
-- Leverage Issues, Projects and Discussions to collaborate
-- Understand basic version control concepts
-- Become adept with change management using Pull Requests and Code Reviews
+- Navigate GitHub repositories and the GitHub interface to locate code, documentation, and project resources
+- Create and edit Markdown files to document information and communicate effectively within repositories
+- Use GitHub Issues, Projects, and Discussions to collaborate with contributors and manage work
+- Explain fundamental version control concepts, including commits, branches, and repository history
+- Apply pull request and code review workflows to propose, evaluate, and manage changes in a repository
 
 ## Audience
 
